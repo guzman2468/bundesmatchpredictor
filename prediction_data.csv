@@ -1,0 +1,1142 @@
+,actual_x,predicted_x,date,team_x,opponent_x,result_x,new_team_x,actual_y,predicted_y,team_y,opponent_y,result_y,new_team_y
+0,0,0,2023-01-22,Augsburg,Dortmund,L,Augsburg,2,2,Dortmund,Augsburg,W,Dortmund
+1,2,2,2023-01-25,Augsburg,Gladbach,W,Augsburg,0,2,Monchengladbach,Augsburg,L,Gladbach
+2,0,0,2023-01-28,Augsburg,Freiburg,L,Augsburg,2,2,Freiburg,Augsburg,W,Freiburg
+3,2,2,2023-02-03,Augsburg,Leverkusen,W,Augsburg,0,2,Bayer Leverkusen,Augsburg,L,Leverkusen
+4,0,0,2023-02-11,Augsburg,Mainz 05,L,Augsburg,2,2,Mainz 05,Augsburg,W,Mainz 05
+5,2,2,2023-02-17,Augsburg,Hoffenheim,W,Augsburg,0,0,Hoffenheim,Augsburg,L,Hoffenheim
+6,0,0,2023-02-25,Augsburg,Hertha BSC,L,Augsburg,2,2,Hertha BSC,Augsburg,W,Hertha BSC
+7,2,2,2023-03-04,Augsburg,Werder Bremen,W,Augsburg,0,0,Werder Bremen,Augsburg,L,Werder Bremen
+8,0,0,2023-03-11,Augsburg,Bayern Munich,L,Augsburg,2,2,Bayern Munich,Augsburg,W,Bayern Munich
+9,1,0,2023-03-18,Augsburg,Schalke 04,D,Augsburg,1,0,Schalke 04,Augsburg,D,Schalke 04
+10,1,0,2023-04-01,Augsburg,Wolfsburg,D,Augsburg,1,2,Wolfsburg,Augsburg,D,Wolfsburg
+11,0,0,2023-04-08,Augsburg,Köln,L,Augsburg,2,2,Koln,Augsburg,W,Koln
+12,0,0,2023-04-15,Augsburg,RB Leipzig,L,Augsburg,2,2,RB Leipzig,Augsburg,W,RB Leipzig
+13,1,0,2023-04-21,Augsburg,Stuttgart,D,Augsburg,1,2,Stuttgart,Augsburg,D,Stuttgart
+14,1,0,2023-04-29,Augsburg,Eint Frankfurt,D,Augsburg,1,2,Eintracht Frankfurt,Augsburg,D,Eint Frankfurt
+15,2,0,2023-05-06,Augsburg,Union Berlin,W,Augsburg,0,2,Union Berlin,Augsburg,L,Union Berlin
+16,0,0,2023-05-13,Augsburg,Bochum,L,Augsburg,2,2,Bochum,Augsburg,W,Bochum
+17,0,0,2023-05-21,Augsburg,Dortmund,L,Augsburg,2,2,Dortmund,Augsburg,W,Dortmund
+18,0,0,2023-05-27,Augsburg,Gladbach,L,Augsburg,2,2,Monchengladbach,Augsburg,W,Gladbach
+19,1,0,2023-08-19,Augsburg,Gladbach,D,Augsburg,1,2,Monchengladbach,Augsburg,D,Gladbach
+20,0,0,2023-08-27,Augsburg,Bayern Munich,L,Augsburg,2,2,Bayern Munich,Augsburg,W,Bayern Munich
+21,1,0,2023-09-02,Augsburg,Bochum,D,Augsburg,1,2,Bochum,Augsburg,D,Bochum
+22,0,0,2023-09-16,Augsburg,RB Leipzig,L,Augsburg,2,2,RB Leipzig,Augsburg,W,RB Leipzig
+23,2,0,2023-09-23,Augsburg,Mainz 05,W,Augsburg,0,2,Mainz 05,Augsburg,L,Mainz 05
+24,0,0,2023-10-01,Augsburg,Freiburg,L,Augsburg,2,2,Freiburg,Augsburg,W,Freiburg
+25,0,0,2023-10-07,Augsburg,Darmstadt 98,L,Augsburg,2,0,Darmstadt 98,Augsburg,W,Darmstadt 98
+26,2,0,2023-10-22,Augsburg,Heidenheim,W,Augsburg,0,2,Heidenheim,Augsburg,L,Heidenheim
+27,2,2,2023-10-28,Augsburg,Wolfsburg,W,Augsburg,0,2,Wolfsburg,Augsburg,L,Wolfsburg
+28,1,2,2023-11-04,Augsburg,Köln,D,Augsburg,1,2,Koln,Augsburg,D,Koln
+29,1,2,2023-11-11,Augsburg,Hoffenheim,D,Augsburg,1,2,Hoffenheim,Augsburg,D,Hoffenheim
+30,1,0,2023-11-25,Augsburg,Union Berlin,D,Augsburg,1,0,Union Berlin,Augsburg,D,Union Berlin
+31,2,2,2023-12-03,Augsburg,Eint Frankfurt,W,Augsburg,0,0,Eintracht Frankfurt,Augsburg,L,Eint Frankfurt
+32,0,0,2023-12-09,Augsburg,Werder Bremen,L,Augsburg,2,2,Werder Bremen,Augsburg,W,Werder Bremen
+33,1,0,2023-12-16,Augsburg,Dortmund,D,Augsburg,1,2,Dortmund,Augsburg,D,Dortmund
+34,0,0,2023-12-20,Augsburg,Stuttgart,L,Augsburg,2,2,Stuttgart,Augsburg,W,Stuttgart
+35,0,2,2024-01-13,Augsburg,Leverkusen,L,Augsburg,2,2,Bayer Leverkusen,Augsburg,W,Leverkusen
+36,2,0,2024-01-21,Augsburg,Gladbach,W,Augsburg,0,2,Monchengladbach,Augsburg,L,Gladbach
+37,0,0,2024-01-27,Augsburg,Bayern Munich,L,Augsburg,2,2,Bayern Munich,Augsburg,W,Bayern Munich
+38,1,0,2024-02-03,Augsburg,Bochum,D,Augsburg,1,2,Bochum,Augsburg,D,Bochum
+39,1,2,2024-02-10,Augsburg,RB Leipzig,D,Augsburg,1,0,RB Leipzig,Augsburg,D,RB Leipzig
+40,0,0,2024-02-17,Augsburg,Mainz 05,L,Augsburg,2,2,Mainz 05,Augsburg,W,Mainz 05
+41,2,2,2024-02-25,Augsburg,Freiburg,W,Augsburg,0,0,Freiburg,Augsburg,L,Freiburg
+42,2,0,2024-03-02,Augsburg,Darmstadt 98,W,Augsburg,0,2,Darmstadt 98,Augsburg,L,Darmstadt 98
+43,2,2,2024-03-09,Augsburg,Heidenheim,W,Augsburg,0,0,Heidenheim,Augsburg,L,Heidenheim
+44,2,2,2024-03-16,Augsburg,Wolfsburg,W,Augsburg,0,2,Wolfsburg,Augsburg,L,Wolfsburg
+45,1,2,2024-03-31,Augsburg,Köln,D,Augsburg,1,0,Koln,Augsburg,D,Koln
+46,0,2,2024-04-07,Augsburg,Hoffenheim,L,Augsburg,2,0,Hoffenheim,Augsburg,W,Hoffenheim
+47,2,2,2024-04-12,Augsburg,Union Berlin,W,Augsburg,0,0,Union Berlin,Augsburg,L,Union Berlin
+48,0,0,2024-04-19,Augsburg,Eint Frankfurt,L,Augsburg,2,2,Eintracht Frankfurt,Augsburg,W,Eint Frankfurt
+49,0,0,2024-04-27,Augsburg,Werder Bremen,L,Augsburg,2,0,Werder Bremen,Augsburg,W,Werder Bremen
+50,0,0,2024-05-04,Augsburg,Dortmund,L,Augsburg,2,2,Dortmund,Augsburg,W,Dortmund
+51,0,2,2024-05-10,Augsburg,Stuttgart,L,Augsburg,2,2,Stuttgart,Augsburg,W,Stuttgart
+52,0,0,2024-05-18,Augsburg,Leverkusen,L,Augsburg,2,2,Bayer Leverkusen,Augsburg,W,Leverkusen
+53,1,2,2024-08-24,Augsburg,Werder Bremen,D,Augsburg,1,2,Werder Bremen,Augsburg,D,Werder Bremen
+54,0,0,2024-09-01,Augsburg,Heidenheim,L,Augsburg,2,2,Heidenheim,Augsburg,W,Heidenheim
+55,0,2,2024-09-20,Augsburg,Mainz 05,L,Augsburg,2,0,Mainz 05,Augsburg,W,Mainz 05
+56,0,0,2024-09-28,Augsburg,RB Leipzig,L,Augsburg,2,2,RB Leipzig,Augsburg,W,RB Leipzig
+57,2,2,2024-10-04,Augsburg,Gladbach,W,Augsburg,0,2,Monchengladbach,Augsburg,L,Gladbach
+58,0,0,2024-10-19,Augsburg,Freiburg,L,Augsburg,2,2,Freiburg,Augsburg,W,Freiburg
+59,2,0,2024-10-26,Augsburg,Dortmund,W,Augsburg,0,2,Dortmund,Augsburg,L,Dortmund
+60,1,0,2024-11-02,Augsburg,Wolfsburg,D,Augsburg,1,2,Wolfsburg,Augsburg,D,Wolfsburg
+61,1,0,2024-11-10,Augsburg,Hoffenheim,D,Augsburg,1,0,Hoffenheim,Augsburg,D,Hoffenheim
+62,0,0,2024-11-22,Augsburg,Bayern Munich,L,Augsburg,2,2,Bayern Munich,Augsburg,W,Bayern Munich
+63,2,2,2024-11-30,Augsburg,Bochum,W,Augsburg,0,0,Bochum,Augsburg,L,Bochum
+64,1,0,2024-12-07,Augsburg,Eint Frankfurt,D,Augsburg,1,2,Eintracht Frankfurt,Augsburg,D,Eint Frankfurt
+65,0,2,2024-12-14,Augsburg,Leverkusen,L,Augsburg,2,2,Bayer Leverkusen,Augsburg,W,Leverkusen
+66,0,0,2024-12-21,Augsburg,Holstein Kiel,L,Augsburg,2,0,Holstein Kiel,Augsburg,W,Holstein Kiel
+67,2,0,2023-01-22,Bayer Leverkusen,Gladbach,W,Leverkusen,0,2,Monchengladbach,Leverkusen,L,Gladbach
+68,2,2,2023-01-25,Bayer Leverkusen,Bochum,W,Leverkusen,0,0,Bochum,Leverkusen,L,Bochum
+69,0,0,2023-01-29,Bayer Leverkusen,Dortmund,L,Leverkusen,2,2,Dortmund,Leverkusen,W,Dortmund
+70,0,2,2023-02-03,Bayer Leverkusen,Augsburg,L,Leverkusen,2,2,Augsburg,Leverkusen,W,Augsburg
+71,2,2,2023-02-11,Bayer Leverkusen,Hoffenheim,W,Leverkusen,0,2,Hoffenheim,Leverkusen,L,Hoffenheim
+72,0,2,2023-02-19,Bayer Leverkusen,Mainz 05,L,Leverkusen,2,2,Mainz 05,Leverkusen,W,Mainz 05
+73,1,1,2023-02-26,Bayer Leverkusen,Freiburg,D,Leverkusen,1,0,Freiburg,Leverkusen,D,Freiburg
+74,2,2,2023-03-05,Bayer Leverkusen,Hertha BSC,W,Leverkusen,0,1,Hertha BSC,Leverkusen,L,Hertha BSC
+75,2,2,2023-03-12,Bayer Leverkusen,Werder Bremen,W,Leverkusen,0,2,Werder Bremen,Leverkusen,L,Werder Bremen
+76,2,2,2023-03-19,Bayer Leverkusen,Bayern Munich,W,Leverkusen,0,2,Bayern Munich,Leverkusen,L,Bayern Munich
+77,2,2,2023-04-01,Bayer Leverkusen,Schalke 04,W,Leverkusen,0,2,Schalke 04,Leverkusen,L,Schalke 04
+78,2,2,2023-04-08,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen,0,0,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt
+79,1,2,2023-04-16,Bayer Leverkusen,Wolfsburg,D,Leverkusen,1,2,Wolfsburg,Leverkusen,D,Wolfsburg
+80,2,2,2023-04-23,Bayer Leverkusen,RB Leipzig,W,Leverkusen,0,1,RB Leipzig,Leverkusen,L,RB Leipzig
+81,1,2,2023-04-29,Bayer Leverkusen,Union Berlin,D,Leverkusen,1,0,Union Berlin,Leverkusen,D,Union Berlin
+82,0,0,2023-05-05,Bayer Leverkusen,Köln,L,Leverkusen,2,0,Koln,Leverkusen,W,Koln
+83,1,0,2023-05-14,Bayer Leverkusen,Stuttgart,D,Leverkusen,1,2,Stuttgart,Leverkusen,D,Stuttgart
+84,1,2,2023-05-21,Bayer Leverkusen,Gladbach,D,Leverkusen,1,2,Monchengladbach,Leverkusen,D,Gladbach
+85,0,0,2023-05-27,Bayer Leverkusen,Bochum,L,Leverkusen,2,2,Bochum,Leverkusen,W,Bochum
+86,2,2,2023-08-19,Bayer Leverkusen,RB Leipzig,W,Leverkusen,0,2,RB Leipzig,Leverkusen,L,RB Leipzig
+87,2,0,2023-08-26,Bayer Leverkusen,Gladbach,W,Leverkusen,0,2,Monchengladbach,Leverkusen,L,Gladbach
+88,1,2,2023-09-15,Bayer Leverkusen,Bayern Munich,D,Leverkusen,1,2,Bayern Munich,Leverkusen,D,Bayern Munich
+89,2,2,2023-09-24,Bayer Leverkusen,Heidenheim,W,Leverkusen,0,2,Heidenheim,Leverkusen,L,Heidenheim
+90,2,2,2023-09-30,Bayer Leverkusen,Mainz 05,W,Leverkusen,0,2,Mainz 05,Leverkusen,L,Mainz 05
+91,2,2,2023-10-08,Bayer Leverkusen,Köln,W,Leverkusen,0,0,Koln,Leverkusen,L,Koln
+92,2,2,2023-10-21,Bayer Leverkusen,Wolfsburg,W,Leverkusen,0,2,Wolfsburg,Leverkusen,L,Wolfsburg
+93,2,2,2023-10-29,Bayer Leverkusen,Freiburg,W,Leverkusen,0,0,Freiburg,Leverkusen,L,Freiburg
+94,2,2,2023-11-04,Bayer Leverkusen,Hoffenheim,W,Leverkusen,0,2,Hoffenheim,Leverkusen,L,Hoffenheim
+95,2,2,2023-11-12,Bayer Leverkusen,Union Berlin,W,Leverkusen,0,0,Union Berlin,Leverkusen,L,Union Berlin
+96,2,2,2023-11-25,Bayer Leverkusen,Werder Bremen,W,Leverkusen,0,2,Werder Bremen,Leverkusen,L,Werder Bremen
+97,1,2,2023-12-03,Bayer Leverkusen,Dortmund,D,Leverkusen,1,0,Dortmund,Leverkusen,D,Dortmund
+98,1,2,2023-12-10,Bayer Leverkusen,Stuttgart,D,Leverkusen,1,2,Stuttgart,Leverkusen,D,Stuttgart
+99,2,2,2023-12-17,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen,0,2,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt
+100,2,2,2023-12-20,Bayer Leverkusen,Bochum,W,Leverkusen,0,2,Bochum,Leverkusen,L,Bochum
+101,2,2,2024-01-13,Bayer Leverkusen,Augsburg,W,Leverkusen,0,2,Augsburg,Leverkusen,L,Augsburg
+102,2,2,2024-01-20,Bayer Leverkusen,RB Leipzig,W,Leverkusen,0,2,RB Leipzig,Leverkusen,L,RB Leipzig
+103,1,2,2024-01-27,Bayer Leverkusen,Gladbach,D,Leverkusen,1,0,Monchengladbach,Leverkusen,D,Gladbach
+104,2,2,2024-02-03,Bayer Leverkusen,Darmstadt 98,W,Leverkusen,0,2,Darmstadt 98,Leverkusen,L,Darmstadt 98
+105,2,2,2024-02-10,Bayer Leverkusen,Bayern Munich,W,Leverkusen,0,2,Bayern Munich,Leverkusen,L,Bayern Munich
+106,2,2,2024-02-17,Bayer Leverkusen,Heidenheim,W,Leverkusen,0,2,Heidenheim,Leverkusen,L,Heidenheim
+107,2,2,2024-02-23,Bayer Leverkusen,Mainz 05,W,Leverkusen,0,0,Mainz 05,Leverkusen,L,Mainz 05
+108,2,2,2024-03-03,Bayer Leverkusen,Köln,W,Leverkusen,0,0,Koln,Leverkusen,L,Koln
+109,2,2,2024-03-10,Bayer Leverkusen,Wolfsburg,W,Leverkusen,0,0,Wolfsburg,Leverkusen,L,Wolfsburg
+110,2,2,2024-03-17,Bayer Leverkusen,Freiburg,W,Leverkusen,0,0,Freiburg,Leverkusen,L,Freiburg
+111,2,2,2024-03-30,Bayer Leverkusen,Hoffenheim,W,Leverkusen,0,0,Hoffenheim,Leverkusen,L,Hoffenheim
+112,2,2,2024-04-06,Bayer Leverkusen,Union Berlin,W,Leverkusen,0,2,Union Berlin,Leverkusen,L,Union Berlin
+113,2,2,2024-04-14,Bayer Leverkusen,Werder Bremen,W,Leverkusen,0,0,Werder Bremen,Leverkusen,L,Werder Bremen
+114,1,2,2024-04-21,Bayer Leverkusen,Dortmund,D,Leverkusen,1,2,Dortmund,Leverkusen,D,Dortmund
+115,1,2,2024-04-27,Bayer Leverkusen,Stuttgart,D,Leverkusen,1,0,Stuttgart,Leverkusen,D,Stuttgart
+116,2,2,2024-05-05,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen,0,0,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt
+117,2,0,2024-05-12,Bayer Leverkusen,Bochum,W,Leverkusen,0,2,Bochum,Leverkusen,L,Bochum
+118,2,2,2024-05-18,Bayer Leverkusen,Augsburg,W,Leverkusen,0,0,Augsburg,Leverkusen,L,Augsburg
+119,2,2,2024-08-23,Bayer Leverkusen,Gladbach,W,Leverkusen,0,2,Monchengladbach,Leverkusen,L,Gladbach
+120,0,2,2024-08-31,Bayer Leverkusen,RB Leipzig,L,Leverkusen,2,0,RB Leipzig,Leverkusen,W,RB Leipzig
+121,2,2,2024-09-14,Bayer Leverkusen,Hoffenheim,W,Leverkusen,0,2,Hoffenheim,Leverkusen,L,Hoffenheim
+122,2,2,2024-09-22,Bayer Leverkusen,Wolfsburg,W,Leverkusen,0,2,Wolfsburg,Leverkusen,L,Wolfsburg
+123,1,2,2024-09-28,Bayer Leverkusen,Bayern Munich,D,Leverkusen,1,2,Bayern Munich,Leverkusen,D,Bayern Munich
+124,1,2,2024-10-05,Bayer Leverkusen,Holstein Kiel,D,Leverkusen,1,0,Holstein Kiel,Leverkusen,D,Holstein Kiel
+125,2,2,2024-10-19,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen,0,2,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt
+126,1,2,2024-10-26,Bayer Leverkusen,Werder Bremen,D,Leverkusen,1,2,Werder Bremen,Leverkusen,D,Werder Bremen
+127,1,2,2024-11-01,Bayer Leverkusen,Stuttgart,D,Leverkusen,1,0,Stuttgart,Leverkusen,D,Stuttgart
+128,1,0,2024-11-09,Bayer Leverkusen,Bochum,D,Leverkusen,1,0,Bochum,Leverkusen,D,Bochum
+129,2,2,2024-11-23,Bayer Leverkusen,Heidenheim,W,Leverkusen,0,0,Heidenheim,Leverkusen,L,Heidenheim
+130,2,0,2024-11-30,Bayer Leverkusen,Union Berlin,W,Leverkusen,0,0,Union Berlin,Leverkusen,L,Union Berlin
+131,2,2,2024-12-07,Bayer Leverkusen,St. Pauli,W,Leverkusen,0,0,St Pauli,Leverkusen,L,St. Pauli
+132,2,2,2024-12-14,Bayer Leverkusen,Augsburg,W,Leverkusen,0,2,Augsburg,Leverkusen,L,Augsburg
+133,2,2,2024-12-21,Bayer Leverkusen,Freiburg,W,Leverkusen,0,2,Freiburg,Leverkusen,L,Freiburg
+134,1,2,2023-01-20,Bayern Munich,RB Leipzig,D,Bayern Munich,1,2,RB Leipzig,Bayern Munich,D,RB Leipzig
+135,1,2,2023-01-24,Bayern Munich,Köln,D,Bayern Munich,1,0,Koln,Bayern Munich,D,Koln
+136,1,2,2023-01-28,Bayern Munich,Eint Frankfurt,D,Bayern Munich,1,0,Eintracht Frankfurt,Bayern Munich,D,Eint Frankfurt
+137,2,2,2023-02-05,Bayern Munich,Wolfsburg,W,Bayern Munich,0,2,Wolfsburg,Bayern Munich,L,Wolfsburg
+138,2,2,2023-02-11,Bayern Munich,Bochum,W,Bayern Munich,0,0,Bochum,Bayern Munich,L,Bochum
+139,0,2,2023-02-18,Bayern Munich,Gladbach,L,Bayern Munich,2,2,Monchengladbach,Bayern Munich,W,Gladbach
+140,2,2,2023-02-26,Bayern Munich,Union Berlin,W,Bayern Munich,0,0,Union Berlin,Bayern Munich,L,Union Berlin
+141,2,2,2023-03-04,Bayern Munich,Stuttgart,W,Bayern Munich,0,2,Stuttgart,Bayern Munich,L,Stuttgart
+142,2,2,2023-03-11,Bayern Munich,Augsburg,W,Bayern Munich,0,0,Augsburg,Bayern Munich,L,Augsburg
+143,0,2,2023-03-19,Bayern Munich,Leverkusen,L,Bayern Munich,2,2,Bayer Leverkusen,Bayern Munich,W,Leverkusen
+144,2,2,2023-04-01,Bayern Munich,Dortmund,W,Bayern Munich,0,2,Dortmund,Bayern Munich,L,Dortmund
+145,2,2,2023-04-08,Bayern Munich,Freiburg,W,Bayern Munich,0,0,Freiburg,Bayern Munich,L,Freiburg
+146,1,2,2023-04-15,Bayern Munich,Hoffenheim,D,Bayern Munich,1,0,Hoffenheim,Bayern Munich,D,Hoffenheim
+147,0,2,2023-04-22,Bayern Munich,Mainz 05,L,Bayern Munich,2,2,Mainz 05,Bayern Munich,W,Mainz 05
+148,2,2,2023-04-30,Bayern Munich,Hertha BSC,W,Bayern Munich,0,0,Hertha BSC,Bayern Munich,L,Hertha BSC
+149,2,2,2023-05-06,Bayern Munich,Werder Bremen,W,Bayern Munich,0,0,Werder Bremen,Bayern Munich,L,Werder Bremen
+150,2,2,2023-05-13,Bayern Munich,Schalke 04,W,Bayern Munich,0,0,Schalke 04,Bayern Munich,L,Schalke 04
+151,0,2,2023-05-20,Bayern Munich,RB Leipzig,L,Bayern Munich,2,0,RB Leipzig,Bayern Munich,W,RB Leipzig
+152,2,2,2023-05-27,Bayern Munich,Köln,W,Bayern Munich,0,2,Koln,Bayern Munich,L,Koln
+153,2,2,2023-08-18,Bayern Munich,Werder Bremen,W,Bayern Munich,0,2,Werder Bremen,Bayern Munich,L,Werder Bremen
+154,2,2,2023-08-27,Bayern Munich,Augsburg,W,Bayern Munich,0,0,Augsburg,Bayern Munich,L,Augsburg
+155,2,2,2023-09-02,Bayern Munich,Gladbach,W,Bayern Munich,0,2,Monchengladbach,Bayern Munich,L,Gladbach
+156,1,2,2023-09-15,Bayern Munich,Leverkusen,D,Bayern Munich,1,2,Bayer Leverkusen,Bayern Munich,D,Leverkusen
+157,2,2,2023-09-23,Bayern Munich,Bochum,W,Bayern Munich,0,2,Bochum,Bayern Munich,L,Bochum
+158,1,2,2023-09-30,Bayern Munich,RB Leipzig,D,Bayern Munich,1,0,RB Leipzig,Bayern Munich,D,RB Leipzig
+159,2,2,2023-10-08,Bayern Munich,Freiburg,W,Bayern Munich,0,0,Freiburg,Bayern Munich,L,Freiburg
+160,2,2,2023-10-21,Bayern Munich,Mainz 05,W,Bayern Munich,0,0,Mainz 05,Bayern Munich,L,Mainz 05
+161,2,2,2023-10-28,Bayern Munich,Darmstadt 98,W,Bayern Munich,0,0,Darmstadt 98,Bayern Munich,L,Darmstadt 98
+162,2,2,2023-11-04,Bayern Munich,Dortmund,W,Bayern Munich,0,2,Dortmund,Bayern Munich,L,Dortmund
+163,2,2,2023-11-11,Bayern Munich,Heidenheim,W,Bayern Munich,0,0,Heidenheim,Bayern Munich,L,Heidenheim
+164,2,2,2023-11-24,Bayern Munich,Köln,W,Bayern Munich,0,2,Koln,Bayern Munich,L,Koln
+165,0,2,2023-12-09,Bayern Munich,Eint Frankfurt,L,Bayern Munich,2,0,Eintracht Frankfurt,Bayern Munich,W,Eint Frankfurt
+166,2,2,2023-12-17,Bayern Munich,Stuttgart,W,Bayern Munich,0,0,Stuttgart,Bayern Munich,L,Stuttgart
+167,2,2,2023-12-20,Bayern Munich,Wolfsburg,W,Bayern Munich,0,0,Wolfsburg,Bayern Munich,L,Wolfsburg
+168,2,2,2024-01-12,Bayern Munich,Hoffenheim,W,Bayern Munich,0,0,Hoffenheim,Bayern Munich,L,Hoffenheim
+169,0,2,2024-01-21,Bayern Munich,Werder Bremen,L,Bayern Munich,2,0,Werder Bremen,Bayern Munich,W,Werder Bremen
+170,2,2,2024-01-24,Bayern Munich,Union Berlin,W,Bayern Munich,0,0,Union Berlin,Bayern Munich,L,Union Berlin
+171,2,2,2024-01-27,Bayern Munich,Augsburg,W,Bayern Munich,0,0,Augsburg,Bayern Munich,L,Augsburg
+172,2,2,2024-02-03,Bayern Munich,Gladbach,W,Bayern Munich,0,0,Monchengladbach,Bayern Munich,L,Gladbach
+173,0,2,2024-02-10,Bayern Munich,Leverkusen,L,Bayern Munich,2,2,Bayer Leverkusen,Bayern Munich,W,Leverkusen
+174,0,0,2024-02-18,Bayern Munich,Bochum,L,Bayern Munich,2,0,Bochum,Bayern Munich,W,Bochum
+175,2,2,2024-02-24,Bayern Munich,RB Leipzig,W,Bayern Munich,0,0,RB Leipzig,Bayern Munich,L,RB Leipzig
+176,1,0,2024-03-01,Bayern Munich,Freiburg,D,Bayern Munich,1,0,Freiburg,Bayern Munich,D,Freiburg
+177,2,2,2024-03-09,Bayern Munich,Mainz 05,W,Bayern Munich,0,0,Mainz 05,Bayern Munich,L,Mainz 05
+178,2,2,2024-03-16,Bayern Munich,Darmstadt 98,W,Bayern Munich,0,0,Darmstadt 98,Bayern Munich,L,Darmstadt 98
+179,0,2,2024-03-30,Bayern Munich,Dortmund,L,Bayern Munich,2,0,Dortmund,Bayern Munich,W,Dortmund
+180,0,2,2024-04-06,Bayern Munich,Heidenheim,L,Bayern Munich,2,2,Heidenheim,Bayern Munich,W,Heidenheim
+181,2,2,2024-04-13,Bayern Munich,Köln,W,Bayern Munich,0,0,Koln,Bayern Munich,L,Koln
+182,2,0,2024-04-20,Bayern Munich,Union Berlin,W,Bayern Munich,0,2,Union Berlin,Bayern Munich,L,Union Berlin
+183,2,2,2024-04-27,Bayern Munich,Eint Frankfurt,W,Bayern Munich,0,0,Eintracht Frankfurt,Bayern Munich,L,Eint Frankfurt
+184,0,2,2024-05-04,Bayern Munich,Stuttgart,L,Bayern Munich,2,2,Stuttgart,Bayern Munich,W,Stuttgart
+185,2,2,2024-05-12,Bayern Munich,Wolfsburg,W,Bayern Munich,0,0,Wolfsburg,Bayern Munich,L,Wolfsburg
+186,0,0,2024-05-18,Bayern Munich,Hoffenheim,L,Bayern Munich,2,2,Hoffenheim,Bayern Munich,W,Hoffenheim
+187,2,0,2024-08-25,Bayern Munich,Wolfsburg,W,Bayern Munich,0,0,Wolfsburg,Bayern Munich,L,Wolfsburg
+188,2,2,2024-09-01,Bayern Munich,Freiburg,W,Bayern Munich,0,0,Freiburg,Bayern Munich,L,Freiburg
+189,2,2,2024-09-21,Bayern Munich,Werder Bremen,W,Bayern Munich,0,0,Werder Bremen,Bayern Munich,L,Werder Bremen
+190,1,2,2024-09-28,Bayern Munich,Leverkusen,D,Bayern Munich,1,2,Bayer Leverkusen,Bayern Munich,D,Leverkusen
+191,1,2,2024-10-06,Bayern Munich,Eint Frankfurt,D,Bayern Munich,1,2,Eintracht Frankfurt,Bayern Munich,D,Eint Frankfurt
+192,2,2,2024-10-19,Bayern Munich,Stuttgart,W,Bayern Munich,0,0,Stuttgart,Bayern Munich,L,Stuttgart
+193,2,2,2024-10-27,Bayern Munich,Bochum,W,Bayern Munich,0,0,Bochum,Bayern Munich,L,Bochum
+194,2,2,2024-11-02,Bayern Munich,Union Berlin,W,Bayern Munich,0,0,Union Berlin,Bayern Munich,L,Union Berlin
+195,2,2,2024-11-09,Bayern Munich,St. Pauli,W,Bayern Munich,0,0,St Pauli,Bayern Munich,L,St. Pauli
+196,2,2,2024-11-22,Bayern Munich,Augsburg,W,Bayern Munich,0,0,Augsburg,Bayern Munich,L,Augsburg
+197,1,2,2024-11-30,Bayern Munich,Dortmund,D,Bayern Munich,1,2,Dortmund,Bayern Munich,D,Dortmund
+198,2,2,2024-12-07,Bayern Munich,Heidenheim,W,Bayern Munich,0,0,Heidenheim,Bayern Munich,L,Heidenheim
+199,0,2,2024-12-14,Bayern Munich,Mainz 05,L,Bayern Munich,2,2,Mainz 05,Bayern Munich,W,Mainz 05
+200,2,2,2024-12-20,Bayern Munich,RB Leipzig,W,Bayern Munich,0,0,RB Leipzig,Bayern Munich,L,RB Leipzig
+201,2,0,2023-01-21,Bochum,Hertha BSC,W,Bochum,0,0,Hertha BSC,Bochum,L,Hertha BSC
+202,0,0,2023-01-25,Bochum,Leverkusen,L,Bochum,2,2,Bayer Leverkusen,Bochum,W,Leverkusen
+203,0,0,2023-01-28,Bochum,Mainz 05,L,Bochum,2,2,Mainz 05,Bochum,W,Mainz 05
+204,2,0,2023-02-04,Bochum,Hoffenheim,W,Bochum,0,0,Hoffenheim,Bochum,L,Hoffenheim
+205,0,0,2023-02-11,Bochum,Bayern Munich,L,Bochum,2,2,Bayern Munich,Bochum,W,Bayern Munich
+206,0,0,2023-02-18,Bochum,Freiburg,L,Bochum,2,0,Freiburg,Bochum,W,Freiburg
+207,0,0,2023-02-25,Bochum,Werder Bremen,L,Bochum,2,0,Werder Bremen,Bochum,W,Werder Bremen
+208,0,0,2023-03-04,Bochum,Schalke 04,L,Bochum,2,0,Schalke 04,Bochum,W,Schalke 04
+209,2,0,2023-03-10,Bochum,Köln,W,Bochum,0,2,Koln,Bochum,L,Koln
+210,2,0,2023-03-18,Bochum,RB Leipzig,W,Bochum,0,0,RB Leipzig,Bochum,L,RB Leipzig
+211,1,0,2023-03-31,Bochum,Eint Frankfurt,D,Bochum,1,2,Eintracht Frankfurt,Bochum,D,Eint Frankfurt
+212,0,0,2023-04-09,Bochum,Stuttgart,L,Bochum,2,0,Stuttgart,Bochum,W,Stuttgart
+213,1,0,2023-04-16,Bochum,Union Berlin,D,Bochum,1,0,Union Berlin,Bochum,D,Union Berlin
+214,0,2,2023-04-22,Bochum,Wolfsburg,L,Bochum,2,0,Wolfsburg,Bochum,W,Wolfsburg
+215,1,2,2023-04-28,Bochum,Dortmund,D,Bochum,1,2,Dortmund,Bochum,D,Dortmund
+216,0,0,2023-05-06,Bochum,Gladbach,L,Bochum,2,0,Monchengladbach,Bochum,W,Gladbach
+217,2,2,2023-05-13,Bochum,Augsburg,W,Bochum,0,0,Augsburg,Bochum,L,Augsburg
+218,1,0,2023-05-20,Bochum,Hertha BSC,D,Bochum,1,2,Hertha BSC,Bochum,D,Hertha BSC
+219,2,2,2023-05-27,Bochum,Leverkusen,W,Bochum,0,0,Bayer Leverkusen,Bochum,L,Leverkusen
+220,0,2,2023-08-19,Bochum,Stuttgart,L,Bochum,2,2,Stuttgart,Bochum,W,Stuttgart
+221,1,2,2023-08-26,Bochum,Dortmund,D,Bochum,1,2,Dortmund,Bochum,D,Dortmund
+222,1,2,2023-09-02,Bochum,Augsburg,D,Bochum,1,0,Augsburg,Bochum,D,Augsburg
+223,1,2,2023-09-16,Bochum,Eint Frankfurt,D,Bochum,1,0,Eintracht Frankfurt,Bochum,D,Eint Frankfurt
+224,0,2,2023-09-23,Bochum,Bayern Munich,L,Bochum,2,2,Bayern Munich,Bochum,W,Bayern Munich
+225,0,0,2023-09-30,Bochum,Gladbach,L,Bochum,2,0,Monchengladbach,Bochum,W,Gladbach
+226,1,0,2023-10-07,Bochum,RB Leipzig,D,Bochum,1,0,RB Leipzig,Bochum,D,RB Leipzig
+227,0,0,2023-10-21,Bochum,Freiburg,L,Bochum,2,0,Freiburg,Bochum,W,Freiburg
+228,1,2,2023-10-27,Bochum,Mainz 05,D,Bochum,1,0,Mainz 05,Bochum,D,Mainz 05
+229,2,0,2023-11-03,Bochum,Darmstadt 98,W,Bochum,0,0,Darmstadt 98,Bochum,L,Darmstadt 98
+230,1,0,2023-11-11,Bochum,Köln,D,Bochum,1,0,Koln,Bochum,D,Koln
+231,1,2,2023-11-26,Bochum,Heidenheim,D,Bochum,1,2,Heidenheim,Bochum,D,Heidenheim
+232,2,2,2023-12-02,Bochum,Wolfsburg,W,Bochum,0,0,Wolfsburg,Bochum,L,Wolfsburg
+233,0,2,2023-12-08,Bochum,Hoffenheim,L,Bochum,2,2,Hoffenheim,Bochum,W,Hoffenheim
+234,2,2,2023-12-16,Bochum,Union Berlin,W,Bochum,0,0,Union Berlin,Bochum,L,Union Berlin
+235,0,2,2023-12-20,Bochum,Leverkusen,L,Bochum,2,2,Bayer Leverkusen,Bochum,W,Leverkusen
+236,1,2,2024-01-14,Bochum,Werder Bremen,D,Bochum,1,0,Werder Bremen,Bochum,D,Werder Bremen
+237,2,2,2024-01-20,Bochum,Stuttgart,W,Bochum,0,0,Stuttgart,Bochum,L,Stuttgart
+238,0,0,2024-01-28,Bochum,Dortmund,L,Bochum,2,2,Dortmund,Bochum,W,Dortmund
+239,1,2,2024-02-03,Bochum,Augsburg,D,Bochum,1,0,Augsburg,Bochum,D,Augsburg
+240,1,0,2024-02-10,Bochum,Eint Frankfurt,D,Bochum,1,2,Eintracht Frankfurt,Bochum,D,Eint Frankfurt
+241,2,0,2024-02-18,Bochum,Bayern Munich,W,Bochum,0,0,Bayern Munich,Bochum,L,Bayern Munich
+242,0,0,2024-02-24,Bochum,Gladbach,L,Bochum,2,2,Monchengladbach,Bochum,W,Gladbach
+243,0,2,2024-03-02,Bochum,RB Leipzig,L,Bochum,2,0,RB Leipzig,Bochum,W,RB Leipzig
+244,0,0,2024-03-10,Bochum,Freiburg,L,Bochum,2,0,Freiburg,Bochum,W,Freiburg
+245,0,0,2024-03-16,Bochum,Mainz 05,L,Bochum,2,0,Mainz 05,Bochum,W,Mainz 05
+246,1,0,2024-03-31,Bochum,Darmstadt 98,D,Bochum,1,0,Darmstadt 98,Bochum,D,Darmstadt 98
+247,0,0,2024-04-06,Bochum,Köln,L,Bochum,2,0,Koln,Bochum,W,Koln
+248,1,2,2024-04-13,Bochum,Heidenheim,D,Bochum,1,0,Heidenheim,Bochum,D,Heidenheim
+249,0,2,2024-04-20,Bochum,Wolfsburg,L,Bochum,2,2,Wolfsburg,Bochum,W,Wolfsburg
+250,2,2,2024-04-26,Bochum,Hoffenheim,W,Bochum,0,0,Hoffenheim,Bochum,L,Hoffenheim
+251,2,1,2024-05-05,Bochum,Union Berlin,W,Bochum,0,2,Union Berlin,Bochum,L,Union Berlin
+252,0,2,2024-05-12,Bochum,Leverkusen,L,Bochum,2,0,Bayer Leverkusen,Bochum,W,Leverkusen
+253,0,0,2024-05-18,Bochum,Werder Bremen,L,Bochum,2,2,Werder Bremen,Bochum,W,Werder Bremen
+254,0,0,2024-08-24,Bochum,RB Leipzig,L,Bochum,2,2,RB Leipzig,Bochum,W,RB Leipzig
+255,0,0,2024-08-31,Bochum,Gladbach,L,Bochum,2,0,Monchengladbach,Bochum,W,Gladbach
+256,0,2,2024-09-14,Bochum,Freiburg,L,Bochum,2,2,Freiburg,Bochum,W,Freiburg
+257,1,0,2024-09-21,Bochum,Holstein Kiel,D,Bochum,1,0,Holstein Kiel,Bochum,D,Holstein Kiel
+258,0,0,2024-09-27,Bochum,Dortmund,L,Bochum,2,2,Dortmund,Bochum,W,Dortmund
+259,0,0,2024-10-05,Bochum,Wolfsburg,L,Bochum,2,0,Wolfsburg,Bochum,W,Wolfsburg
+260,0,0,2024-10-19,Bochum,Hoffenheim,L,Bochum,2,0,Hoffenheim,Bochum,W,Hoffenheim
+261,0,0,2024-10-27,Bochum,Bayern Munich,L,Bochum,2,2,Bayern Munich,Bochum,W,Bayern Munich
+262,0,0,2024-11-02,Bochum,Eint Frankfurt,L,Bochum,2,2,Eintracht Frankfurt,Bochum,W,Eint Frankfurt
+263,1,0,2024-11-09,Bochum,Leverkusen,D,Bochum,1,0,Bayer Leverkusen,Bochum,D,Leverkusen
+264,0,0,2024-11-23,Bochum,Stuttgart,L,Bochum,2,2,Stuttgart,Bochum,W,Stuttgart
+265,0,0,2024-11-30,Bochum,Augsburg,L,Bochum,2,2,Augsburg,Bochum,W,Augsburg
+266,0,0,2024-12-07,Bochum,Werder Bremen,L,Bochum,2,0,Werder Bremen,Bochum,W,Werder Bremen
+267,1,0,2024-12-14,Bochum,Union Berlin,D,Bochum,1,2,Union Berlin,Bochum,D,Union Berlin
+268,2,0,2024-12-22,Bochum,Heidenheim,W,Bochum,0,0,Heidenheim,Bochum,L,Heidenheim
+269,1,0,2023-09-17,Darmstadt 98,Gladbach,D,Darmstadt 98,1,0,Monchengladbach,Darmstadt 98,D,Gladbach
+270,0,0,2023-09-22,Darmstadt 98,Stuttgart,L,Darmstadt 98,2,2,Stuttgart,Darmstadt 98,W,Stuttgart
+271,2,0,2023-10-01,Darmstadt 98,Werder Bremen,W,Darmstadt 98,0,0,Werder Bremen,Darmstadt 98,L,Werder Bremen
+272,2,0,2023-10-07,Darmstadt 98,Augsburg,W,Darmstadt 98,0,0,Augsburg,Darmstadt 98,L,Augsburg
+273,0,2,2023-10-21,Darmstadt 98,RB Leipzig,L,Darmstadt 98,2,0,RB Leipzig,Darmstadt 98,W,RB Leipzig
+274,0,0,2023-10-28,Darmstadt 98,Bayern Munich,L,Darmstadt 98,2,2,Bayern Munich,Darmstadt 98,W,Bayern Munich
+275,0,0,2023-11-03,Darmstadt 98,Bochum,L,Darmstadt 98,2,0,Bochum,Darmstadt 98,W,Bochum
+276,1,0,2023-11-11,Darmstadt 98,Mainz 05,D,Darmstadt 98,1,0,Mainz 05,Darmstadt 98,D,Mainz 05
+277,1,0,2023-11-25,Darmstadt 98,Freiburg,D,Darmstadt 98,1,2,Freiburg,Darmstadt 98,D,Freiburg
+278,0,0,2023-12-01,Darmstadt 98,Köln,L,Darmstadt 98,2,0,Koln,Darmstadt 98,W,Koln
+279,0,0,2023-12-09,Darmstadt 98,Heidenheim,L,Darmstadt 98,2,2,Heidenheim,Darmstadt 98,W,Heidenheim
+280,0,0,2023-12-16,Darmstadt 98,Wolfsburg,L,Darmstadt 98,2,0,Wolfsburg,Darmstadt 98,W,Wolfsburg
+281,1,0,2023-12-19,Darmstadt 98,Hoffenheim,D,Darmstadt 98,1,2,Hoffenheim,Darmstadt 98,D,Hoffenheim
+282,0,0,2024-01-13,Darmstadt 98,Dortmund,L,Darmstadt 98,2,0,Dortmund,Darmstadt 98,W,Dortmund
+283,1,0,2024-01-20,Darmstadt 98,Eint Frankfurt,D,Darmstadt 98,1,0,Eintracht Frankfurt,Darmstadt 98,D,Eint Frankfurt
+284,0,0,2024-01-28,Darmstadt 98,Union Berlin,L,Darmstadt 98,2,0,Union Berlin,Darmstadt 98,W,Union Berlin
+285,0,2,2024-02-03,Darmstadt 98,Leverkusen,L,Darmstadt 98,2,2,Bayer Leverkusen,Darmstadt 98,W,Leverkusen
+286,1,0,2024-02-10,Darmstadt 98,Gladbach,D,Darmstadt 98,1,0,Monchengladbach,Darmstadt 98,D,Gladbach
+287,0,0,2024-02-17,Darmstadt 98,Stuttgart,L,Darmstadt 98,2,2,Stuttgart,Darmstadt 98,W,Stuttgart
+288,1,2,2024-02-24,Darmstadt 98,Werder Bremen,D,Darmstadt 98,1,2,Werder Bremen,Darmstadt 98,D,Werder Bremen
+289,0,2,2024-03-02,Darmstadt 98,Augsburg,L,Darmstadt 98,2,0,Augsburg,Darmstadt 98,W,Augsburg
+290,0,0,2024-03-09,Darmstadt 98,RB Leipzig,L,Darmstadt 98,2,2,RB Leipzig,Darmstadt 98,W,RB Leipzig
+291,0,0,2024-03-16,Darmstadt 98,Bayern Munich,L,Darmstadt 98,2,2,Bayern Munich,Darmstadt 98,W,Bayern Munich
+292,1,0,2024-03-31,Darmstadt 98,Bochum,D,Darmstadt 98,1,0,Bochum,Darmstadt 98,D,Bochum
+293,0,0,2024-04-06,Darmstadt 98,Mainz 05,L,Darmstadt 98,2,0,Mainz 05,Darmstadt 98,W,Mainz 05
+294,0,0,2024-04-14,Darmstadt 98,Freiburg,L,Darmstadt 98,2,0,Freiburg,Darmstadt 98,W,Freiburg
+295,2,0,2024-04-20,Darmstadt 98,Köln,W,Darmstadt 98,0,2,Koln,Darmstadt 98,L,Koln
+296,0,2,2024-04-28,Darmstadt 98,Heidenheim,L,Darmstadt 98,2,0,Heidenheim,Darmstadt 98,W,Heidenheim
+297,0,2,2024-05-04,Darmstadt 98,Wolfsburg,L,Darmstadt 98,2,0,Wolfsburg,Darmstadt 98,W,Wolfsburg
+298,0,0,2024-05-12,Darmstadt 98,Hoffenheim,L,Darmstadt 98,2,2,Hoffenheim,Darmstadt 98,W,Hoffenheim
+299,0,0,2024-05-18,Darmstadt 98,Dortmund,L,Darmstadt 98,2,0,Dortmund,Darmstadt 98,W,Dortmund
+300,2,2,2023-01-22,Dortmund,Augsburg,W,Dortmund,0,0,Augsburg,Dortmund,L,Augsburg
+301,2,2,2023-01-25,Dortmund,Mainz 05,W,Dortmund,0,2,Mainz 05,Dortmund,L,Mainz 05
+302,2,2,2023-01-29,Dortmund,Leverkusen,W,Dortmund,0,0,Bayer Leverkusen,Dortmund,L,Leverkusen
+303,2,2,2023-02-04,Dortmund,Freiburg,W,Dortmund,0,0,Freiburg,Dortmund,L,Freiburg
+304,2,2,2023-02-11,Dortmund,Werder Bremen,W,Dortmund,0,0,Werder Bremen,Dortmund,L,Werder Bremen
+305,2,2,2023-02-19,Dortmund,Hertha BSC,W,Dortmund,0,0,Hertha BSC,Dortmund,L,Hertha BSC
+306,2,2,2023-02-25,Dortmund,Hoffenheim,W,Dortmund,0,0,Hoffenheim,Dortmund,L,Hoffenheim
+307,2,2,2023-03-03,Dortmund,RB Leipzig,W,Dortmund,0,0,RB Leipzig,Dortmund,L,RB Leipzig
+308,1,2,2023-03-11,Dortmund,Schalke 04,D,Dortmund,1,2,Schalke 04,Dortmund,D,Schalke 04
+309,2,2,2023-03-18,Dortmund,Köln,W,Dortmund,0,0,Koln,Dortmund,L,Koln
+310,0,2,2023-04-01,Dortmund,Bayern Munich,L,Dortmund,2,2,Bayern Munich,Dortmund,W,Bayern Munich
+311,2,2,2023-04-08,Dortmund,Union Berlin,W,Dortmund,0,0,Union Berlin,Dortmund,L,Union Berlin
+312,1,2,2023-04-15,Dortmund,Stuttgart,D,Dortmund,1,2,Stuttgart,Dortmund,D,Stuttgart
+313,2,2,2023-04-22,Dortmund,Eint Frankfurt,W,Dortmund,0,0,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt
+314,1,2,2023-04-28,Dortmund,Bochum,D,Dortmund,1,2,Bochum,Dortmund,D,Bochum
+315,2,2,2023-05-07,Dortmund,Wolfsburg,W,Dortmund,0,0,Wolfsburg,Dortmund,L,Wolfsburg
+316,2,2,2023-05-13,Dortmund,Gladbach,W,Dortmund,0,0,Monchengladbach,Dortmund,L,Gladbach
+317,2,2,2023-05-21,Dortmund,Augsburg,W,Dortmund,0,0,Augsburg,Dortmund,L,Augsburg
+318,1,2,2023-05-27,Dortmund,Mainz 05,D,Dortmund,1,0,Mainz 05,Dortmund,D,Mainz 05
+319,2,2,2023-08-19,Dortmund,Köln,W,Dortmund,0,0,Koln,Dortmund,L,Koln
+320,1,2,2023-08-26,Dortmund,Bochum,D,Dortmund,1,2,Bochum,Dortmund,D,Bochum
+321,2,0,2023-09-16,Dortmund,Freiburg,W,Dortmund,0,2,Freiburg,Dortmund,L,Freiburg
+322,2,2,2023-09-23,Dortmund,Wolfsburg,W,Dortmund,0,0,Wolfsburg,Dortmund,L,Wolfsburg
+323,2,2,2023-09-29,Dortmund,Hoffenheim,W,Dortmund,0,2,Hoffenheim,Dortmund,L,Hoffenheim
+324,2,2,2023-10-07,Dortmund,Union Berlin,W,Dortmund,0,2,Union Berlin,Dortmund,L,Union Berlin
+325,2,2,2023-10-20,Dortmund,Werder Bremen,W,Dortmund,0,0,Werder Bremen,Dortmund,L,Werder Bremen
+326,1,0,2023-10-29,Dortmund,Eint Frankfurt,D,Dortmund,1,2,Eintracht Frankfurt,Dortmund,D,Eint Frankfurt
+327,0,2,2023-11-04,Dortmund,Bayern Munich,L,Dortmund,2,2,Bayern Munich,Dortmund,W,Bayern Munich
+328,0,0,2023-11-11,Dortmund,Stuttgart,L,Dortmund,2,2,Stuttgart,Dortmund,W,Stuttgart
+329,2,0,2023-11-25,Dortmund,Gladbach,W,Dortmund,0,0,Monchengladbach,Dortmund,L,Gladbach
+330,1,0,2023-12-03,Dortmund,Leverkusen,D,Dortmund,1,2,Bayer Leverkusen,Dortmund,D,Leverkusen
+331,0,2,2023-12-09,Dortmund,RB Leipzig,L,Dortmund,2,2,RB Leipzig,Dortmund,W,RB Leipzig
+332,1,2,2023-12-16,Dortmund,Augsburg,D,Dortmund,1,0,Augsburg,Dortmund,D,Augsburg
+333,1,2,2023-12-19,Dortmund,Mainz 05,D,Dortmund,1,0,Mainz 05,Dortmund,D,Mainz 05
+334,2,0,2024-01-13,Dortmund,Darmstadt 98,W,Dortmund,0,0,Darmstadt 98,Dortmund,L,Darmstadt 98
+335,2,2,2024-01-20,Dortmund,Köln,W,Dortmund,0,2,Koln,Dortmund,L,Koln
+336,2,2,2024-01-28,Dortmund,Bochum,W,Dortmund,0,0,Bochum,Dortmund,L,Bochum
+337,1,2,2024-02-02,Dortmund,Heidenheim,D,Dortmund,1,2,Heidenheim,Dortmund,D,Heidenheim
+338,2,2,2024-02-09,Dortmund,Freiburg,W,Dortmund,0,0,Freiburg,Dortmund,L,Freiburg
+339,1,2,2024-02-17,Dortmund,Wolfsburg,D,Dortmund,1,2,Wolfsburg,Dortmund,D,Wolfsburg
+340,0,2,2024-02-25,Dortmund,Hoffenheim,L,Dortmund,2,0,Hoffenheim,Dortmund,W,Hoffenheim
+341,2,2,2024-03-02,Dortmund,Union Berlin,W,Dortmund,0,0,Union Berlin,Dortmund,L,Union Berlin
+342,2,2,2024-03-09,Dortmund,Werder Bremen,W,Dortmund,0,2,Werder Bremen,Dortmund,L,Werder Bremen
+343,2,2,2024-03-17,Dortmund,Eint Frankfurt,W,Dortmund,0,0,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt
+344,2,0,2024-03-30,Dortmund,Bayern Munich,W,Dortmund,0,2,Bayern Munich,Dortmund,L,Bayern Munich
+345,0,2,2024-04-06,Dortmund,Stuttgart,L,Dortmund,2,2,Stuttgart,Dortmund,W,Stuttgart
+346,2,2,2024-04-13,Dortmund,Gladbach,W,Dortmund,0,2,Monchengladbach,Dortmund,L,Gladbach
+347,1,2,2024-04-21,Dortmund,Leverkusen,D,Dortmund,1,2,Bayer Leverkusen,Dortmund,D,Leverkusen
+348,0,0,2024-04-27,Dortmund,RB Leipzig,L,Dortmund,2,2,RB Leipzig,Dortmund,W,RB Leipzig
+349,2,2,2024-05-04,Dortmund,Augsburg,W,Dortmund,0,0,Augsburg,Dortmund,L,Augsburg
+350,0,0,2024-05-11,Dortmund,Mainz 05,L,Dortmund,2,2,Mainz 05,Dortmund,W,Mainz 05
+351,2,0,2024-05-18,Dortmund,Darmstadt 98,W,Dortmund,0,0,Darmstadt 98,Dortmund,L,Darmstadt 98
+352,2,2,2024-08-24,Dortmund,Eint Frankfurt,W,Dortmund,0,0,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt
+353,1,2,2024-08-31,Dortmund,Werder Bremen,D,Dortmund,1,2,Werder Bremen,Dortmund,D,Werder Bremen
+354,2,2,2024-09-13,Dortmund,Heidenheim,W,Dortmund,0,0,Heidenheim,Dortmund,L,Heidenheim
+355,0,2,2024-09-22,Dortmund,Stuttgart,L,Dortmund,2,2,Stuttgart,Dortmund,W,Stuttgart
+356,2,2,2024-09-27,Dortmund,Bochum,W,Dortmund,0,0,Bochum,Dortmund,L,Bochum
+357,0,0,2024-10-05,Dortmund,Union Berlin,L,Dortmund,2,0,Union Berlin,Dortmund,W,Union Berlin
+358,2,2,2024-10-18,Dortmund,St. Pauli,W,Dortmund,0,0,St Pauli,Dortmund,L,St. Pauli
+359,0,2,2024-10-26,Dortmund,Augsburg,L,Dortmund,2,0,Augsburg,Dortmund,W,Augsburg
+360,2,2,2024-11-02,Dortmund,RB Leipzig,W,Dortmund,0,0,RB Leipzig,Dortmund,L,RB Leipzig
+361,0,0,2024-11-09,Dortmund,Mainz 05,L,Dortmund,2,2,Mainz 05,Dortmund,W,Mainz 05
+362,2,0,2024-11-23,Dortmund,Freiburg,W,Dortmund,0,0,Freiburg,Dortmund,L,Freiburg
+363,1,2,2024-11-30,Dortmund,Bayern Munich,D,Dortmund,1,2,Bayern Munich,Dortmund,D,Bayern Munich
+364,1,0,2024-12-07,Dortmund,Gladbach,D,Dortmund,1,2,Monchengladbach,Dortmund,D,Gladbach
+365,1,2,2024-12-15,Dortmund,Hoffenheim,D,Dortmund,1,0,Hoffenheim,Dortmund,D,Hoffenheim
+366,2,0,2024-12-22,Dortmund,Wolfsburg,W,Dortmund,0,2,Wolfsburg,Dortmund,L,Wolfsburg
+367,2,2,2023-01-21,Eintracht Frankfurt,Schalke 04,W,Eint Frankfurt,0,0,Schalke 04,Eint Frankfurt,L,Schalke 04
+368,1,0,2023-01-25,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt,1,0,Freiburg,Eint Frankfurt,D,Freiburg
+369,1,0,2023-01-28,Eintracht Frankfurt,Bayern Munich,D,Eint Frankfurt,1,2,Bayern Munich,Eint Frankfurt,D,Bayern Munich
+370,2,2,2023-02-04,Eintracht Frankfurt,Hertha BSC,W,Eint Frankfurt,0,0,Hertha BSC,Eint Frankfurt,L,Hertha BSC
+371,0,0,2023-02-12,Eintracht Frankfurt,Köln,L,Eint Frankfurt,2,2,Koln,Eint Frankfurt,W,Koln
+372,2,2,2023-02-18,Eintracht Frankfurt,Werder Bremen,W,Eint Frankfurt,0,0,Werder Bremen,Eint Frankfurt,L,Werder Bremen
+373,0,0,2023-02-25,Eintracht Frankfurt,RB Leipzig,L,Eint Frankfurt,2,0,RB Leipzig,Eint Frankfurt,W,RB Leipzig
+374,1,0,2023-03-05,Eintracht Frankfurt,Wolfsburg,D,Eint Frankfurt,1,0,Wolfsburg,Eint Frankfurt,D,Wolfsburg
+375,1,2,2023-03-11,Eintracht Frankfurt,Stuttgart,D,Eint Frankfurt,1,0,Stuttgart,Eint Frankfurt,D,Stuttgart
+376,0,0,2023-03-19,Eintracht Frankfurt,Union Berlin,L,Eint Frankfurt,2,2,Union Berlin,Eint Frankfurt,W,Union Berlin
+377,1,2,2023-03-31,Eintracht Frankfurt,Bochum,D,Eint Frankfurt,1,0,Bochum,Eint Frankfurt,D,Bochum
+378,0,0,2023-04-08,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt,2,2,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen
+379,1,2,2023-04-15,Eintracht Frankfurt,Gladbach,D,Eint Frankfurt,1,2,Monchengladbach,Eint Frankfurt,D,Gladbach
+380,0,0,2023-04-22,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt,2,2,Dortmund,Eint Frankfurt,W,Dortmund
+381,1,2,2023-04-29,Eintracht Frankfurt,Augsburg,D,Eint Frankfurt,1,0,Augsburg,Eint Frankfurt,D,Augsburg
+382,0,0,2023-05-06,Eintracht Frankfurt,Hoffenheim,L,Eint Frankfurt,2,0,Hoffenheim,Eint Frankfurt,W,Hoffenheim
+383,2,0,2023-05-13,Eintracht Frankfurt,Mainz 05,W,Eint Frankfurt,0,0,Mainz 05,Eint Frankfurt,L,Mainz 05
+384,1,2,2023-05-20,Eintracht Frankfurt,Schalke 04,D,Eint Frankfurt,1,0,Schalke 04,Eint Frankfurt,D,Schalke 04
+385,2,2,2023-05-27,Eintracht Frankfurt,Freiburg,W,Eint Frankfurt,0,0,Freiburg,Eint Frankfurt,L,Freiburg
+386,1,0,2023-08-27,Eintracht Frankfurt,Mainz 05,D,Eint Frankfurt,1,0,Mainz 05,Eint Frankfurt,D,Mainz 05
+387,1,2,2023-09-03,Eintracht Frankfurt,Köln,D,Eint Frankfurt,1,0,Koln,Eint Frankfurt,D,Koln
+388,1,0,2023-09-16,Eintracht Frankfurt,Bochum,D,Eint Frankfurt,1,2,Bochum,Eint Frankfurt,D,Bochum
+389,1,2,2023-09-24,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt,1,0,Freiburg,Eint Frankfurt,D,Freiburg
+390,0,0,2023-09-30,Eintracht Frankfurt,Wolfsburg,L,Eint Frankfurt,2,0,Wolfsburg,Eint Frankfurt,W,Wolfsburg
+391,2,2,2023-10-08,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt,0,0,Heidenheim,Eint Frankfurt,L,Heidenheim
+392,2,0,2023-10-21,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt,0,2,Hoffenheim,Eint Frankfurt,L,Hoffenheim
+393,1,2,2023-10-29,Eintracht Frankfurt,Dortmund,D,Eint Frankfurt,1,0,Dortmund,Eint Frankfurt,D,Dortmund
+394,2,2,2023-11-04,Eintracht Frankfurt,Union Berlin,W,Eint Frankfurt,0,0,Union Berlin,Eint Frankfurt,L,Union Berlin
+395,1,2,2023-11-12,Eintracht Frankfurt,Werder Bremen,D,Eint Frankfurt,1,0,Werder Bremen,Eint Frankfurt,D,Werder Bremen
+396,0,2,2023-11-25,Eintracht Frankfurt,Stuttgart,L,Eint Frankfurt,2,0,Stuttgart,Eint Frankfurt,W,Stuttgart
+397,0,0,2023-12-03,Eintracht Frankfurt,Augsburg,L,Eint Frankfurt,2,2,Augsburg,Eint Frankfurt,W,Augsburg
+398,2,0,2023-12-09,Eintracht Frankfurt,Bayern Munich,W,Eint Frankfurt,0,2,Bayern Munich,Eint Frankfurt,L,Bayern Munich
+399,0,2,2023-12-17,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt,2,2,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen
+400,2,2,2023-12-20,Eintracht Frankfurt,Gladbach,W,Eint Frankfurt,0,0,Monchengladbach,Eint Frankfurt,L,Gladbach
+401,2,0,2024-01-13,Eintracht Frankfurt,RB Leipzig,W,Eint Frankfurt,0,2,RB Leipzig,Eint Frankfurt,L,RB Leipzig
+402,1,0,2024-01-20,Eintracht Frankfurt,Darmstadt 98,D,Eint Frankfurt,1,0,Darmstadt 98,Eint Frankfurt,D,Darmstadt 98
+403,2,2,2024-01-26,Eintracht Frankfurt,Mainz 05,W,Eint Frankfurt,0,0,Mainz 05,Eint Frankfurt,L,Mainz 05
+404,0,0,2024-02-03,Eintracht Frankfurt,Köln,L,Eint Frankfurt,2,2,Koln,Eint Frankfurt,W,Koln
+405,1,2,2024-02-10,Eintracht Frankfurt,Bochum,D,Eint Frankfurt,1,0,Bochum,Eint Frankfurt,D,Bochum
+406,1,0,2024-02-18,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt,1,0,Freiburg,Eint Frankfurt,D,Freiburg
+407,1,2,2024-02-25,Eintracht Frankfurt,Wolfsburg,D,Eint Frankfurt,1,0,Wolfsburg,Eint Frankfurt,D,Wolfsburg
+408,2,0,2024-03-02,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt,0,0,Heidenheim,Eint Frankfurt,L,Heidenheim
+409,2,2,2024-03-10,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt,0,0,Hoffenheim,Eint Frankfurt,L,Hoffenheim
+410,0,0,2024-03-17,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt,2,2,Dortmund,Eint Frankfurt,W,Dortmund
+411,1,2,2024-03-30,Eintracht Frankfurt,Union Berlin,D,Eint Frankfurt,1,0,Union Berlin,Eint Frankfurt,D,Union Berlin
+412,1,2,2024-04-05,Eintracht Frankfurt,Werder Bremen,D,Eint Frankfurt,1,0,Werder Bremen,Eint Frankfurt,D,Werder Bremen
+413,0,2,2024-04-13,Eintracht Frankfurt,Stuttgart,L,Eint Frankfurt,2,2,Stuttgart,Eint Frankfurt,W,Stuttgart
+414,2,2,2024-04-19,Eintracht Frankfurt,Augsburg,W,Eint Frankfurt,0,0,Augsburg,Eint Frankfurt,L,Augsburg
+415,0,0,2024-04-27,Eintracht Frankfurt,Bayern Munich,L,Eint Frankfurt,2,2,Bayern Munich,Eint Frankfurt,W,Bayern Munich
+416,0,0,2024-05-05,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt,2,2,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen
+417,1,0,2024-05-11,Eintracht Frankfurt,Gladbach,D,Eint Frankfurt,1,2,Monchengladbach,Eint Frankfurt,D,Gladbach
+418,1,2,2024-05-18,Eintracht Frankfurt,RB Leipzig,D,Eint Frankfurt,1,0,RB Leipzig,Eint Frankfurt,D,RB Leipzig
+419,0,0,2024-08-24,Eintracht Frankfurt,Dortmund,L,Eint Frankfurt,2,2,Dortmund,Eint Frankfurt,W,Dortmund
+420,2,2,2024-08-31,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt,0,2,Hoffenheim,Eint Frankfurt,L,Hoffenheim
+421,2,1,2024-09-14,Eintracht Frankfurt,Wolfsburg,W,Eint Frankfurt,0,0,Wolfsburg,Eint Frankfurt,L,Wolfsburg
+422,2,2,2024-09-21,Eintracht Frankfurt,Gladbach,W,Eint Frankfurt,0,0,Monchengladbach,Eint Frankfurt,L,Gladbach
+423,2,2,2024-09-29,Eintracht Frankfurt,Holstein Kiel,W,Eint Frankfurt,0,0,Holstein Kiel,Eint Frankfurt,L,Holstein Kiel
+424,1,2,2024-10-06,Eintracht Frankfurt,Bayern Munich,D,Eint Frankfurt,1,2,Bayern Munich,Eint Frankfurt,D,Bayern Munich
+425,0,2,2024-10-19,Eintracht Frankfurt,Leverkusen,L,Eint Frankfurt,2,2,Bayer Leverkusen,Eint Frankfurt,W,Leverkusen
+426,1,2,2024-10-27,Eintracht Frankfurt,Union Berlin,D,Eint Frankfurt,1,0,Union Berlin,Eint Frankfurt,D,Union Berlin
+427,2,2,2024-11-02,Eintracht Frankfurt,Bochum,W,Eint Frankfurt,0,0,Bochum,Eint Frankfurt,L,Bochum
+428,2,2,2024-11-10,Eintracht Frankfurt,Stuttgart,W,Eint Frankfurt,0,0,Stuttgart,Eint Frankfurt,L,Stuttgart
+429,2,2,2024-11-23,Eintracht Frankfurt,Werder Bremen,W,Eint Frankfurt,0,0,Werder Bremen,Eint Frankfurt,L,Werder Bremen
+430,2,2,2024-12-01,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt,0,2,Heidenheim,Eint Frankfurt,L,Heidenheim
+431,1,2,2024-12-07,Eintracht Frankfurt,Augsburg,D,Eint Frankfurt,1,0,Augsburg,Eint Frankfurt,D,Augsburg
+432,0,2,2024-12-15,Eintracht Frankfurt,RB Leipzig,L,Eint Frankfurt,2,0,RB Leipzig,Eint Frankfurt,W,RB Leipzig
+433,0,2,2024-12-21,Eintracht Frankfurt,Mainz 05,L,Eint Frankfurt,2,0,Mainz 05,Eint Frankfurt,W,Mainz 05
+434,0,0,2023-01-21,Freiburg,Wolfsburg,L,Freiburg,2,2,Wolfsburg,Freiburg,W,Wolfsburg
+435,1,0,2023-01-25,Freiburg,Eint Frankfurt,D,Freiburg,1,0,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt
+436,2,2,2023-01-28,Freiburg,Augsburg,W,Freiburg,0,0,Augsburg,Freiburg,L,Augsburg
+437,0,0,2023-02-04,Freiburg,Dortmund,L,Freiburg,2,2,Dortmund,Freiburg,W,Dortmund
+438,2,2,2023-02-11,Freiburg,Stuttgart,W,Freiburg,0,0,Stuttgart,Freiburg,L,Stuttgart
+439,2,0,2023-02-18,Freiburg,Bochum,W,Freiburg,0,0,Bochum,Freiburg,L,Bochum
+440,1,0,2023-02-26,Freiburg,Leverkusen,D,Freiburg,1,1,Bayer Leverkusen,Freiburg,D,Leverkusen
+441,1,0,2023-03-04,Freiburg,Gladbach,D,Freiburg,1,0,Monchengladbach,Freiburg,D,Gladbach
+442,2,0,2023-03-12,Freiburg,Hoffenheim,W,Freiburg,0,0,Hoffenheim,Freiburg,L,Hoffenheim
+443,1,0,2023-03-19,Freiburg,Mainz 05,D,Freiburg,1,2,Mainz 05,Freiburg,D,Mainz 05
+444,1,0,2023-04-01,Freiburg,Hertha BSC,D,Freiburg,1,0,Hertha BSC,Freiburg,D,Hertha BSC
+445,0,0,2023-04-08,Freiburg,Bayern Munich,L,Freiburg,2,2,Bayern Munich,Freiburg,W,Bayern Munich
+446,2,2,2023-04-16,Freiburg,Werder Bremen,W,Freiburg,0,0,Werder Bremen,Freiburg,L,Werder Bremen
+447,2,2,2023-04-23,Freiburg,Schalke 04,W,Freiburg,0,0,Schalke 04,Freiburg,L,Schalke 04
+448,2,2,2023-04-29,Freiburg,Köln,W,Freiburg,0,2,Koln,Freiburg,L,Koln
+449,0,2,2023-05-06,Freiburg,RB Leipzig,L,Freiburg,2,0,RB Leipzig,Freiburg,W,RB Leipzig
+450,0,0,2023-05-13,Freiburg,Union Berlin,L,Freiburg,2,0,Union Berlin,Freiburg,W,Union Berlin
+451,2,2,2023-05-19,Freiburg,Wolfsburg,W,Freiburg,0,0,Wolfsburg,Freiburg,L,Wolfsburg
+452,0,0,2023-05-27,Freiburg,Eint Frankfurt,L,Freiburg,2,2,Eintracht Frankfurt,Freiburg,W,Eint Frankfurt
+453,2,0,2023-08-19,Freiburg,Hoffenheim,W,Freiburg,0,0,Hoffenheim,Freiburg,L,Hoffenheim
+454,2,2,2023-08-26,Freiburg,Werder Bremen,W,Freiburg,0,0,Werder Bremen,Freiburg,L,Werder Bremen
+455,0,2,2023-09-02,Freiburg,Stuttgart,L,Freiburg,2,2,Stuttgart,Freiburg,W,Stuttgart
+456,0,2,2023-09-16,Freiburg,Dortmund,L,Freiburg,2,0,Dortmund,Freiburg,W,Dortmund
+457,1,0,2023-09-24,Freiburg,Eint Frankfurt,D,Freiburg,1,2,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt
+458,2,2,2023-10-01,Freiburg,Augsburg,W,Freiburg,0,0,Augsburg,Freiburg,L,Augsburg
+459,0,0,2023-10-08,Freiburg,Bayern Munich,L,Freiburg,2,2,Bayern Munich,Freiburg,W,Bayern Munich
+460,2,0,2023-10-21,Freiburg,Bochum,W,Freiburg,0,0,Bochum,Freiburg,L,Bochum
+461,0,0,2023-10-29,Freiburg,Leverkusen,L,Freiburg,2,2,Bayer Leverkusen,Freiburg,W,Leverkusen
+462,1,2,2023-11-04,Freiburg,Gladbach,D,Freiburg,1,0,Monchengladbach,Freiburg,D,Gladbach
+463,0,0,2023-11-12,Freiburg,RB Leipzig,L,Freiburg,2,2,RB Leipzig,Freiburg,W,RB Leipzig
+464,1,2,2023-11-25,Freiburg,Darmstadt 98,D,Freiburg,1,0,Darmstadt 98,Freiburg,D,Darmstadt 98
+465,2,0,2023-12-03,Freiburg,Mainz 05,W,Freiburg,0,0,Mainz 05,Freiburg,L,Mainz 05
+466,2,0,2023-12-09,Freiburg,Wolfsburg,W,Freiburg,0,2,Wolfsburg,Freiburg,L,Wolfsburg
+467,2,0,2023-12-17,Freiburg,Köln,W,Freiburg,0,0,Koln,Freiburg,L,Koln
+468,0,0,2023-12-20,Freiburg,Heidenheim,L,Freiburg,2,2,Heidenheim,Freiburg,W,Heidenheim
+469,1,2,2024-01-13,Freiburg,Union Berlin,D,Freiburg,1,0,Union Berlin,Freiburg,D,Union Berlin
+470,2,2,2024-01-20,Freiburg,Hoffenheim,W,Freiburg,0,0,Hoffenheim,Freiburg,L,Hoffenheim
+471,0,2,2024-01-27,Freiburg,Werder Bremen,L,Freiburg,2,2,Werder Bremen,Freiburg,W,Werder Bremen
+472,0,2,2024-02-03,Freiburg,Stuttgart,L,Freiburg,2,0,Stuttgart,Freiburg,W,Stuttgart
+473,0,0,2024-02-09,Freiburg,Dortmund,L,Freiburg,2,2,Dortmund,Freiburg,W,Dortmund
+474,1,0,2024-02-18,Freiburg,Eint Frankfurt,D,Freiburg,1,0,Eintracht Frankfurt,Freiburg,D,Eint Frankfurt
+475,0,0,2024-02-25,Freiburg,Augsburg,L,Freiburg,2,2,Augsburg,Freiburg,W,Augsburg
+476,1,0,2024-03-01,Freiburg,Bayern Munich,D,Freiburg,1,0,Bayern Munich,Freiburg,D,Bayern Munich
+477,2,0,2024-03-10,Freiburg,Bochum,W,Freiburg,0,0,Bochum,Freiburg,L,Bochum
+478,0,0,2024-03-17,Freiburg,Leverkusen,L,Freiburg,2,2,Bayer Leverkusen,Freiburg,W,Leverkusen
+479,2,0,2024-03-30,Freiburg,Gladbach,W,Freiburg,0,2,Monchengladbach,Freiburg,L,Gladbach
+480,0,2,2024-04-06,Freiburg,RB Leipzig,L,Freiburg,2,2,RB Leipzig,Freiburg,W,RB Leipzig
+481,2,0,2024-04-14,Freiburg,Darmstadt 98,W,Freiburg,0,0,Darmstadt 98,Freiburg,L,Darmstadt 98
+482,1,2,2024-04-21,Freiburg,Mainz 05,D,Freiburg,1,2,Mainz 05,Freiburg,D,Mainz 05
+483,0,2,2024-04-27,Freiburg,Wolfsburg,L,Freiburg,2,0,Wolfsburg,Freiburg,W,Wolfsburg
+484,1,0,2024-05-04,Freiburg,Köln,D,Freiburg,1,2,Koln,Freiburg,D,Koln
+485,1,2,2024-05-11,Freiburg,Heidenheim,D,Freiburg,1,0,Heidenheim,Freiburg,D,Heidenheim
+486,0,0,2024-05-18,Freiburg,Union Berlin,L,Freiburg,2,2,Union Berlin,Freiburg,W,Union Berlin
+487,2,2,2024-08-24,Freiburg,Stuttgart,W,Freiburg,0,2,Stuttgart,Freiburg,L,Stuttgart
+488,0,0,2024-09-01,Freiburg,Bayern Munich,L,Freiburg,2,2,Bayern Munich,Freiburg,W,Bayern Munich
+489,2,2,2024-09-14,Freiburg,Bochum,W,Freiburg,0,2,Bochum,Freiburg,L,Bochum
+490,2,1,2024-09-21,Freiburg,Heidenheim,W,Freiburg,0,2,Heidenheim,Freiburg,L,Heidenheim
+491,0,2,2024-09-28,Freiburg,St. Pauli,L,Freiburg,2,0,St Pauli,Freiburg,W,St. Pauli
+492,2,2,2024-10-19,Freiburg,Augsburg,W,Freiburg,0,0,Augsburg,Freiburg,L,Augsburg
+493,0,0,2024-10-26,Freiburg,RB Leipzig,L,Freiburg,2,2,RB Leipzig,Freiburg,W,RB Leipzig
+494,1,2,2024-11-03,Freiburg,Mainz 05,D,Freiburg,1,2,Mainz 05,Freiburg,D,Mainz 05
+495,1,0,2024-11-08,Freiburg,Union Berlin,D,Freiburg,1,2,Union Berlin,Freiburg,D,Union Berlin
+496,0,0,2024-11-23,Freiburg,Dortmund,L,Freiburg,2,0,Dortmund,Freiburg,W,Dortmund
+497,2,0,2024-11-30,Freiburg,Gladbach,W,Freiburg,0,2,Monchengladbach,Freiburg,L,Gladbach
+498,1,0,2024-12-08,Freiburg,Hoffenheim,D,Freiburg,1,2,Hoffenheim,Freiburg,D,Hoffenheim
+499,2,2,2024-12-13,Freiburg,Wolfsburg,W,Freiburg,0,2,Wolfsburg,Freiburg,L,Wolfsburg
+500,0,2,2024-12-21,Freiburg,Leverkusen,L,Freiburg,2,2,Bayer Leverkusen,Freiburg,W,Leverkusen
+501,2,2,2023-09-17,Heidenheim,Werder Bremen,W,Heidenheim,0,0,Werder Bremen,Heidenheim,L,Werder Bremen
+502,0,2,2023-09-24,Heidenheim,Leverkusen,L,Heidenheim,2,2,Bayer Leverkusen,Heidenheim,W,Leverkusen
+503,2,2,2023-09-30,Heidenheim,Union Berlin,W,Heidenheim,0,2,Union Berlin,Heidenheim,L,Union Berlin
+504,0,0,2023-10-08,Heidenheim,Eint Frankfurt,L,Heidenheim,2,2,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt
+505,0,2,2023-10-22,Heidenheim,Augsburg,L,Heidenheim,2,0,Augsburg,Heidenheim,W,Augsburg
+506,0,0,2023-10-28,Heidenheim,Gladbach,L,Heidenheim,2,2,Monchengladbach,Heidenheim,W,Gladbach
+507,2,0,2023-11-05,Heidenheim,Stuttgart,W,Heidenheim,0,2,Stuttgart,Heidenheim,L,Stuttgart
+508,0,0,2023-11-11,Heidenheim,Bayern Munich,L,Heidenheim,2,2,Bayern Munich,Heidenheim,W,Bayern Munich
+509,1,2,2023-11-26,Heidenheim,Bochum,D,Heidenheim,1,2,Bochum,Heidenheim,D,Bochum
+510,0,0,2023-12-02,Heidenheim,RB Leipzig,L,Heidenheim,2,2,RB Leipzig,Heidenheim,W,RB Leipzig
+511,2,2,2023-12-09,Heidenheim,Darmstadt 98,W,Heidenheim,0,0,Darmstadt 98,Heidenheim,L,Darmstadt 98
+512,2,0,2023-12-16,Heidenheim,Mainz 05,W,Heidenheim,0,2,Mainz 05,Heidenheim,L,Mainz 05
+513,2,2,2023-12-20,Heidenheim,Freiburg,W,Heidenheim,0,0,Freiburg,Heidenheim,L,Freiburg
+514,1,2,2024-01-13,Heidenheim,Köln,D,Heidenheim,1,0,Koln,Heidenheim,D,Koln
+515,1,0,2024-01-20,Heidenheim,Wolfsburg,D,Heidenheim,1,0,Wolfsburg,Heidenheim,D,Wolfsburg
+516,1,0,2024-01-27,Heidenheim,Hoffenheim,D,Heidenheim,1,2,Hoffenheim,Heidenheim,D,Hoffenheim
+517,1,2,2024-02-02,Heidenheim,Dortmund,D,Heidenheim,1,2,Dortmund,Heidenheim,D,Dortmund
+518,2,0,2024-02-10,Heidenheim,Werder Bremen,W,Heidenheim,0,0,Werder Bremen,Heidenheim,L,Werder Bremen
+519,0,2,2024-02-17,Heidenheim,Leverkusen,L,Heidenheim,2,2,Bayer Leverkusen,Heidenheim,W,Leverkusen
+520,1,0,2024-02-24,Heidenheim,Union Berlin,D,Heidenheim,1,2,Union Berlin,Heidenheim,D,Union Berlin
+521,0,0,2024-03-02,Heidenheim,Eint Frankfurt,L,Heidenheim,2,0,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt
+522,0,0,2024-03-09,Heidenheim,Augsburg,L,Heidenheim,2,2,Augsburg,Heidenheim,W,Augsburg
+523,1,0,2024-03-16,Heidenheim,Gladbach,D,Heidenheim,1,2,Monchengladbach,Heidenheim,D,Gladbach
+524,1,0,2024-03-31,Heidenheim,Stuttgart,D,Heidenheim,1,2,Stuttgart,Heidenheim,D,Stuttgart
+525,2,2,2024-04-06,Heidenheim,Bayern Munich,W,Heidenheim,0,2,Bayern Munich,Heidenheim,L,Bayern Munich
+526,1,0,2024-04-13,Heidenheim,Bochum,D,Heidenheim,1,2,Bochum,Heidenheim,D,Bochum
+527,0,2,2024-04-20,Heidenheim,RB Leipzig,L,Heidenheim,2,2,RB Leipzig,Heidenheim,W,RB Leipzig
+528,2,0,2024-04-28,Heidenheim,Darmstadt 98,W,Heidenheim,0,2,Darmstadt 98,Heidenheim,L,Darmstadt 98
+529,1,2,2024-05-05,Heidenheim,Mainz 05,D,Heidenheim,1,1,Mainz 05,Heidenheim,D,Mainz 05
+530,1,0,2024-05-11,Heidenheim,Freiburg,D,Heidenheim,1,2,Freiburg,Heidenheim,D,Freiburg
+531,2,2,2024-05-18,Heidenheim,Köln,W,Heidenheim,0,2,Koln,Heidenheim,L,Koln
+532,2,2,2024-09-01,Heidenheim,Augsburg,W,Heidenheim,0,0,Augsburg,Heidenheim,L,Augsburg
+533,0,0,2024-09-13,Heidenheim,Dortmund,L,Heidenheim,2,2,Dortmund,Heidenheim,W,Dortmund
+534,0,2,2024-09-21,Heidenheim,Freiburg,L,Heidenheim,2,1,Freiburg,Heidenheim,W,Freiburg
+535,2,0,2024-09-28,Heidenheim,Mainz 05,W,Heidenheim,0,2,Mainz 05,Heidenheim,L,Mainz 05
+536,0,2,2024-10-06,Heidenheim,RB Leipzig,L,Heidenheim,2,2,RB Leipzig,Heidenheim,W,RB Leipzig
+537,0,0,2024-10-19,Heidenheim,Gladbach,L,Heidenheim,2,2,Monchengladbach,Heidenheim,W,Gladbach
+538,1,2,2024-10-27,Heidenheim,Hoffenheim,D,Heidenheim,1,2,Hoffenheim,Heidenheim,D,Hoffenheim
+539,0,2,2024-11-02,Heidenheim,Holstein Kiel,L,Heidenheim,2,2,Holstein Kiel,Heidenheim,W,Holstein Kiel
+540,0,2,2024-11-10,Heidenheim,Wolfsburg,L,Heidenheim,2,0,Wolfsburg,Heidenheim,W,Wolfsburg
+541,0,0,2024-11-23,Heidenheim,Leverkusen,L,Heidenheim,2,2,Bayer Leverkusen,Heidenheim,W,Leverkusen
+542,0,2,2024-12-01,Heidenheim,Eint Frankfurt,L,Heidenheim,2,2,Eintracht Frankfurt,Heidenheim,W,Eint Frankfurt
+543,0,0,2024-12-07,Heidenheim,Bayern Munich,L,Heidenheim,2,2,Bayern Munich,Heidenheim,W,Bayern Munich
+544,0,0,2024-12-15,Heidenheim,Stuttgart,L,Heidenheim,2,0,Stuttgart,Heidenheim,W,Stuttgart
+545,0,0,2024-12-22,Heidenheim,Bochum,L,Heidenheim,2,0,Bochum,Heidenheim,W,Bochum
+546,0,0,2023-01-21,Hertha BSC,Bochum,L,Hertha BSC,2,0,Bochum,Hertha BSC,W,Bochum
+547,0,2,2023-01-24,Hertha BSC,Wolfsburg,L,Hertha BSC,2,2,Wolfsburg,Hertha BSC,W,Wolfsburg
+548,0,2,2023-01-28,Hertha BSC,Union Berlin,L,Hertha BSC,2,0,Union Berlin,Hertha BSC,W,Union Berlin
+549,0,0,2023-02-04,Hertha BSC,Eint Frankfurt,L,Hertha BSC,2,2,Eintracht Frankfurt,Hertha BSC,W,Eint Frankfurt
+550,2,0,2023-02-12,Hertha BSC,Gladbach,W,Hertha BSC,0,0,Monchengladbach,Hertha BSC,L,Gladbach
+551,0,0,2023-02-19,Hertha BSC,Dortmund,L,Hertha BSC,2,2,Dortmund,Hertha BSC,W,Dortmund
+552,2,2,2023-02-25,Hertha BSC,Augsburg,W,Hertha BSC,0,0,Augsburg,Hertha BSC,L,Augsburg
+553,0,1,2023-03-05,Hertha BSC,Leverkusen,L,Hertha BSC,2,2,Bayer Leverkusen,Hertha BSC,W,Leverkusen
+554,1,1,2023-03-11,Hertha BSC,Mainz 05,D,Hertha BSC,1,2,Mainz 05,Hertha BSC,D,Mainz 05
+555,0,0,2023-03-18,Hertha BSC,Hoffenheim,L,Hertha BSC,2,2,Hoffenheim,Hertha BSC,W,Hoffenheim
+556,1,0,2023-04-01,Hertha BSC,Freiburg,D,Hertha BSC,1,0,Freiburg,Hertha BSC,D,Freiburg
+557,0,2,2023-04-08,Hertha BSC,RB Leipzig,L,Hertha BSC,2,2,RB Leipzig,Hertha BSC,W,RB Leipzig
+558,0,0,2023-04-14,Hertha BSC,Schalke 04,L,Hertha BSC,2,2,Schalke 04,Hertha BSC,W,Schalke 04
+559,0,0,2023-04-22,Hertha BSC,Werder Bremen,L,Hertha BSC,2,0,Werder Bremen,Hertha BSC,W,Werder Bremen
+560,0,0,2023-04-30,Hertha BSC,Bayern Munich,L,Hertha BSC,2,2,Bayern Munich,Hertha BSC,W,Bayern Munich
+561,2,0,2023-05-06,Hertha BSC,Stuttgart,W,Hertha BSC,0,0,Stuttgart,Hertha BSC,L,Stuttgart
+562,0,0,2023-05-12,Hertha BSC,Köln,L,Hertha BSC,2,2,Koln,Hertha BSC,W,Koln
+563,1,2,2023-05-20,Hertha BSC,Bochum,D,Hertha BSC,1,0,Bochum,Hertha BSC,D,Bochum
+564,2,0,2023-05-27,Hertha BSC,Wolfsburg,W,Hertha BSC,0,0,Wolfsburg,Hertha BSC,L,Wolfsburg
+565,0,0,2023-01-21,Hoffenheim,Union Berlin,L,Hoffenheim,2,0,Union Berlin,Hoffenheim,W,Union Berlin
+566,1,2,2023-01-24,Hoffenheim,Stuttgart,D,Hoffenheim,1,0,Stuttgart,Hoffenheim,D,Stuttgart
+567,0,2,2023-01-28,Hoffenheim,Gladbach,L,Hoffenheim,2,0,Monchengladbach,Hoffenheim,W,Gladbach
+568,0,0,2023-02-04,Hoffenheim,Bochum,L,Hoffenheim,2,0,Bochum,Hoffenheim,W,Bochum
+569,0,2,2023-02-11,Hoffenheim,Leverkusen,L,Hoffenheim,2,2,Bayer Leverkusen,Hoffenheim,W,Leverkusen
+570,0,0,2023-02-17,Hoffenheim,Augsburg,L,Hoffenheim,2,2,Augsburg,Hoffenheim,W,Augsburg
+571,0,0,2023-02-25,Hoffenheim,Dortmund,L,Hoffenheim,2,2,Dortmund,Hoffenheim,W,Dortmund
+572,0,0,2023-03-04,Hoffenheim,Mainz 05,L,Hoffenheim,2,2,Mainz 05,Hoffenheim,W,Mainz 05
+573,0,0,2023-03-12,Hoffenheim,Freiburg,L,Hoffenheim,2,0,Freiburg,Hoffenheim,W,Freiburg
+574,2,2,2023-03-18,Hoffenheim,Hertha BSC,W,Hoffenheim,0,0,Hertha BSC,Hoffenheim,L,Hertha BSC
+575,2,2,2023-04-02,Hoffenheim,Werder Bremen,W,Hoffenheim,0,2,Werder Bremen,Hoffenheim,L,Werder Bremen
+576,2,2,2023-04-09,Hoffenheim,Schalke 04,W,Hoffenheim,0,0,Schalke 04,Hoffenheim,L,Schalke 04
+577,1,0,2023-04-15,Hoffenheim,Bayern Munich,D,Hoffenheim,1,2,Bayern Munich,Hoffenheim,D,Bayern Munich
+578,0,0,2023-04-22,Hoffenheim,Köln,L,Hoffenheim,2,0,Koln,Hoffenheim,W,Koln
+579,0,0,2023-04-29,Hoffenheim,RB Leipzig,L,Hoffenheim,2,2,RB Leipzig,Hoffenheim,W,RB Leipzig
+580,2,0,2023-05-06,Hoffenheim,Eint Frankfurt,W,Hoffenheim,0,0,Eintracht Frankfurt,Hoffenheim,L,Eint Frankfurt
+581,0,0,2023-05-13,Hoffenheim,Wolfsburg,L,Hoffenheim,2,2,Wolfsburg,Hoffenheim,W,Wolfsburg
+582,2,0,2023-05-20,Hoffenheim,Union Berlin,W,Hoffenheim,0,0,Union Berlin,Hoffenheim,L,Union Berlin
+583,1,0,2023-05-27,Hoffenheim,Stuttgart,D,Hoffenheim,1,2,Stuttgart,Hoffenheim,D,Stuttgart
+584,0,0,2023-08-19,Hoffenheim,Freiburg,L,Hoffenheim,2,0,Freiburg,Hoffenheim,W,Freiburg
+585,2,2,2023-09-02,Hoffenheim,Wolfsburg,W,Hoffenheim,0,0,Wolfsburg,Hoffenheim,L,Wolfsburg
+586,2,2,2023-09-16,Hoffenheim,Köln,W,Hoffenheim,0,0,Koln,Hoffenheim,L,Koln
+587,2,2,2023-09-23,Hoffenheim,Union Berlin,W,Hoffenheim,0,2,Union Berlin,Hoffenheim,L,Union Berlin
+588,0,2,2023-09-29,Hoffenheim,Dortmund,L,Hoffenheim,2,2,Dortmund,Hoffenheim,W,Dortmund
+589,2,0,2023-10-07,Hoffenheim,Werder Bremen,W,Hoffenheim,0,2,Werder Bremen,Hoffenheim,L,Werder Bremen
+590,0,2,2023-10-21,Hoffenheim,Eint Frankfurt,L,Hoffenheim,2,0,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt
+591,2,0,2023-10-28,Hoffenheim,Stuttgart,W,Hoffenheim,0,2,Stuttgart,Hoffenheim,L,Stuttgart
+592,0,2,2023-11-04,Hoffenheim,Leverkusen,L,Hoffenheim,2,2,Bayer Leverkusen,Hoffenheim,W,Leverkusen
+593,1,2,2023-11-11,Hoffenheim,Augsburg,D,Hoffenheim,1,2,Augsburg,Hoffenheim,D,Augsburg
+594,1,2,2023-11-26,Hoffenheim,Mainz 05,D,Hoffenheim,1,0,Mainz 05,Hoffenheim,D,Mainz 05
+595,0,0,2023-12-02,Hoffenheim,Gladbach,L,Hoffenheim,2,2,Monchengladbach,Hoffenheim,W,Gladbach
+596,2,2,2023-12-08,Hoffenheim,Bochum,W,Hoffenheim,0,2,Bochum,Hoffenheim,L,Bochum
+597,0,0,2023-12-16,Hoffenheim,RB Leipzig,L,Hoffenheim,2,2,RB Leipzig,Hoffenheim,W,RB Leipzig
+598,1,2,2023-12-19,Hoffenheim,Darmstadt 98,D,Hoffenheim,1,0,Darmstadt 98,Hoffenheim,D,Darmstadt 98
+599,0,0,2024-01-12,Hoffenheim,Bayern Munich,L,Hoffenheim,2,2,Bayern Munich,Hoffenheim,W,Bayern Munich
+600,0,0,2024-01-20,Hoffenheim,Freiburg,L,Hoffenheim,2,2,Freiburg,Hoffenheim,W,Freiburg
+601,1,2,2024-01-27,Hoffenheim,Heidenheim,D,Hoffenheim,1,0,Heidenheim,Hoffenheim,D,Heidenheim
+602,1,2,2024-02-04,Hoffenheim,Wolfsburg,D,Hoffenheim,1,2,Wolfsburg,Hoffenheim,D,Wolfsburg
+603,1,2,2024-02-11,Hoffenheim,Köln,D,Hoffenheim,1,0,Koln,Hoffenheim,D,Koln
+604,0,2,2024-02-17,Hoffenheim,Union Berlin,L,Hoffenheim,2,0,Union Berlin,Hoffenheim,W,Union Berlin
+605,2,0,2024-02-25,Hoffenheim,Dortmund,W,Hoffenheim,0,2,Dortmund,Hoffenheim,L,Dortmund
+606,2,2,2024-03-03,Hoffenheim,Werder Bremen,W,Hoffenheim,0,0,Werder Bremen,Hoffenheim,L,Werder Bremen
+607,0,0,2024-03-10,Hoffenheim,Eint Frankfurt,L,Hoffenheim,2,2,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt
+608,0,2,2024-03-16,Hoffenheim,Stuttgart,L,Hoffenheim,2,0,Stuttgart,Hoffenheim,W,Stuttgart
+609,0,0,2024-03-30,Hoffenheim,Leverkusen,L,Hoffenheim,2,2,Bayer Leverkusen,Hoffenheim,W,Leverkusen
+610,2,0,2024-04-07,Hoffenheim,Augsburg,W,Hoffenheim,0,2,Augsburg,Hoffenheim,L,Augsburg
+611,0,0,2024-04-13,Hoffenheim,Mainz 05,L,Hoffenheim,2,2,Mainz 05,Hoffenheim,W,Mainz 05
+612,2,0,2024-04-20,Hoffenheim,Gladbach,W,Hoffenheim,0,0,Monchengladbach,Hoffenheim,L,Gladbach
+613,0,0,2024-04-26,Hoffenheim,Bochum,L,Hoffenheim,2,2,Bochum,Hoffenheim,W,Bochum
+614,1,0,2024-05-03,Hoffenheim,RB Leipzig,D,Hoffenheim,1,2,RB Leipzig,Hoffenheim,D,RB Leipzig
+615,2,2,2024-05-12,Hoffenheim,Darmstadt 98,W,Hoffenheim,0,0,Darmstadt 98,Hoffenheim,L,Darmstadt 98
+616,2,2,2024-05-18,Hoffenheim,Bayern Munich,W,Hoffenheim,0,0,Bayern Munich,Hoffenheim,L,Bayern Munich
+617,0,2,2024-08-31,Hoffenheim,Eint Frankfurt,L,Hoffenheim,2,2,Eintracht Frankfurt,Hoffenheim,W,Eint Frankfurt
+618,0,2,2024-09-14,Hoffenheim,Leverkusen,L,Hoffenheim,2,2,Bayer Leverkusen,Hoffenheim,W,Leverkusen
+619,0,0,2024-09-21,Hoffenheim,Union Berlin,L,Hoffenheim,2,1,Union Berlin,Hoffenheim,W,Union Berlin
+620,1,0,2024-10-06,Hoffenheim,Stuttgart,D,Hoffenheim,1,2,Stuttgart,Hoffenheim,D,Stuttgart
+621,2,0,2024-10-19,Hoffenheim,Bochum,W,Hoffenheim,0,0,Bochum,Hoffenheim,L,Bochum
+622,1,2,2024-10-27,Hoffenheim,Heidenheim,D,Hoffenheim,1,2,Heidenheim,Hoffenheim,D,Heidenheim
+623,0,2,2024-11-02,Hoffenheim,St. Pauli,L,Hoffenheim,2,2,St Pauli,Hoffenheim,W,St. Pauli
+624,1,0,2024-11-10,Hoffenheim,Augsburg,D,Hoffenheim,1,0,Augsburg,Hoffenheim,D,Augsburg
+625,2,1,2024-11-23,Hoffenheim,RB Leipzig,W,Hoffenheim,0,0,RB Leipzig,Hoffenheim,L,RB Leipzig
+626,0,1,2024-12-01,Hoffenheim,Mainz 05,L,Hoffenheim,2,2,Mainz 05,Hoffenheim,W,Mainz 05
+627,1,2,2024-12-08,Hoffenheim,Freiburg,D,Hoffenheim,1,0,Freiburg,Hoffenheim,D,Freiburg
+628,1,0,2024-12-15,Hoffenheim,Dortmund,D,Hoffenheim,1,2,Dortmund,Hoffenheim,D,Dortmund
+629,0,2,2024-12-21,Hoffenheim,Gladbach,L,Hoffenheim,2,2,Monchengladbach,Hoffenheim,W,Gladbach
+630,1,0,2024-09-21,Holstein Kiel,Bochum,D,Holstein Kiel,1,0,Bochum,Holstein Kiel,D,Bochum
+631,0,0,2024-09-29,Holstein Kiel,Eint Frankfurt,L,Holstein Kiel,2,2,Eintracht Frankfurt,Holstein Kiel,W,Eint Frankfurt
+632,1,0,2024-10-05,Holstein Kiel,Leverkusen,D,Holstein Kiel,1,2,Bayer Leverkusen,Holstein Kiel,D,Leverkusen
+633,0,0,2024-10-20,Holstein Kiel,Union Berlin,L,Holstein Kiel,2,0,Union Berlin,Holstein Kiel,W,Union Berlin
+634,0,0,2024-10-26,Holstein Kiel,Stuttgart,L,Holstein Kiel,2,2,Stuttgart,Holstein Kiel,W,Stuttgart
+635,2,2,2024-11-02,Holstein Kiel,Heidenheim,W,Holstein Kiel,0,2,Heidenheim,Holstein Kiel,L,Heidenheim
+636,0,0,2024-11-09,Holstein Kiel,Werder Bremen,L,Holstein Kiel,2,2,Werder Bremen,Holstein Kiel,W,Werder Bremen
+637,0,2,2024-11-24,Holstein Kiel,Mainz 05,L,Holstein Kiel,2,2,Mainz 05,Holstein Kiel,W,Mainz 05
+638,0,0,2024-11-29,Holstein Kiel,St. Pauli,L,Holstein Kiel,2,2,St Pauli,Holstein Kiel,W,St. Pauli
+639,0,0,2024-12-07,Holstein Kiel,RB Leipzig,L,Holstein Kiel,2,0,RB Leipzig,Holstein Kiel,W,RB Leipzig
+640,0,0,2024-12-14,Holstein Kiel,Gladbach,L,Holstein Kiel,2,2,Monchengladbach,Holstein Kiel,W,Gladbach
+641,2,0,2024-12-21,Holstein Kiel,Augsburg,W,Holstein Kiel,0,0,Augsburg,Holstein Kiel,L,Augsburg
+642,1,0,2023-01-21,Mainz 05,Stuttgart,D,Mainz 05,1,2,Stuttgart,Mainz 05,D,Stuttgart
+643,0,2,2023-01-25,Mainz 05,Dortmund,L,Mainz 05,2,2,Dortmund,Mainz 05,W,Dortmund
+644,2,2,2023-01-28,Mainz 05,Bochum,W,Mainz 05,0,0,Bochum,Mainz 05,L,Bochum
+645,0,2,2023-02-04,Mainz 05,Union Berlin,L,Mainz 05,2,2,Union Berlin,Mainz 05,W,Union Berlin
+646,2,2,2023-02-11,Mainz 05,Augsburg,W,Mainz 05,0,0,Augsburg,Mainz 05,L,Augsburg
+647,2,2,2023-02-19,Mainz 05,Leverkusen,W,Mainz 05,0,2,Bayer Leverkusen,Mainz 05,L,Leverkusen
+648,2,2,2023-02-24,Mainz 05,Gladbach,W,Mainz 05,0,0,Monchengladbach,Mainz 05,L,Gladbach
+649,2,2,2023-03-04,Mainz 05,Hoffenheim,W,Mainz 05,0,0,Hoffenheim,Mainz 05,L,Hoffenheim
+650,1,2,2023-03-11,Mainz 05,Hertha BSC,D,Mainz 05,1,1,Hertha BSC,Mainz 05,D,Hertha BSC
+651,1,2,2023-03-19,Mainz 05,Freiburg,D,Mainz 05,1,0,Freiburg,Mainz 05,D,Freiburg
+652,2,0,2023-04-01,Mainz 05,RB Leipzig,W,Mainz 05,0,2,RB Leipzig,Mainz 05,L,RB Leipzig
+653,1,2,2023-04-08,Mainz 05,Werder Bremen,D,Mainz 05,1,0,Werder Bremen,Mainz 05,D,Werder Bremen
+654,1,2,2023-04-15,Mainz 05,Köln,D,Mainz 05,1,2,Koln,Mainz 05,D,Koln
+655,2,2,2023-04-22,Mainz 05,Bayern Munich,W,Mainz 05,0,2,Bayern Munich,Mainz 05,L,Bayern Munich
+656,0,2,2023-04-30,Mainz 05,Wolfsburg,L,Mainz 05,2,2,Wolfsburg,Mainz 05,W,Wolfsburg
+657,0,2,2023-05-05,Mainz 05,Schalke 04,L,Mainz 05,2,2,Schalke 04,Mainz 05,W,Schalke 04
+658,0,0,2023-05-13,Mainz 05,Eint Frankfurt,L,Mainz 05,2,0,Eintracht Frankfurt,Mainz 05,W,Eint Frankfurt
+659,0,0,2023-05-21,Mainz 05,Stuttgart,L,Mainz 05,2,0,Stuttgart,Mainz 05,W,Stuttgart
+660,1,0,2023-05-27,Mainz 05,Dortmund,D,Mainz 05,1,2,Dortmund,Mainz 05,D,Dortmund
+661,0,0,2023-08-20,Mainz 05,Union Berlin,L,Mainz 05,2,2,Union Berlin,Mainz 05,W,Union Berlin
+662,1,0,2023-08-27,Mainz 05,Eint Frankfurt,D,Mainz 05,1,0,Eintracht Frankfurt,Mainz 05,D,Eint Frankfurt
+663,0,0,2023-09-02,Mainz 05,Werder Bremen,L,Mainz 05,2,0,Werder Bremen,Mainz 05,W,Werder Bremen
+664,0,0,2023-09-16,Mainz 05,Stuttgart,L,Mainz 05,2,2,Stuttgart,Mainz 05,W,Stuttgart
+665,0,2,2023-09-23,Mainz 05,Augsburg,L,Mainz 05,2,0,Augsburg,Mainz 05,W,Augsburg
+666,0,2,2023-09-30,Mainz 05,Leverkusen,L,Mainz 05,2,2,Bayer Leverkusen,Mainz 05,W,Leverkusen
+667,1,0,2023-10-06,Mainz 05,Gladbach,D,Mainz 05,1,2,Monchengladbach,Mainz 05,D,Gladbach
+668,0,0,2023-10-21,Mainz 05,Bayern Munich,L,Mainz 05,2,2,Bayern Munich,Mainz 05,W,Bayern Munich
+669,1,0,2023-10-27,Mainz 05,Bochum,D,Mainz 05,1,2,Bochum,Mainz 05,D,Bochum
+670,2,2,2023-11-04,Mainz 05,RB Leipzig,W,Mainz 05,0,2,RB Leipzig,Mainz 05,L,RB Leipzig
+671,1,0,2023-11-11,Mainz 05,Darmstadt 98,D,Mainz 05,1,0,Darmstadt 98,Mainz 05,D,Darmstadt 98
+672,1,0,2023-11-26,Mainz 05,Hoffenheim,D,Mainz 05,1,2,Hoffenheim,Mainz 05,D,Hoffenheim
+673,0,0,2023-12-03,Mainz 05,Freiburg,L,Mainz 05,2,0,Freiburg,Mainz 05,W,Freiburg
+674,1,2,2023-12-10,Mainz 05,Köln,D,Mainz 05,1,2,Koln,Mainz 05,D,Koln
+675,0,2,2023-12-16,Mainz 05,Heidenheim,L,Mainz 05,2,0,Heidenheim,Mainz 05,W,Heidenheim
+676,1,0,2023-12-19,Mainz 05,Dortmund,D,Mainz 05,1,2,Dortmund,Mainz 05,D,Dortmund
+677,1,2,2024-01-13,Mainz 05,Wolfsburg,D,Mainz 05,1,0,Wolfsburg,Mainz 05,D,Wolfsburg
+678,0,0,2024-01-26,Mainz 05,Eint Frankfurt,L,Mainz 05,2,2,Eintracht Frankfurt,Mainz 05,W,Eint Frankfurt
+679,0,0,2024-02-03,Mainz 05,Werder Bremen,L,Mainz 05,2,0,Werder Bremen,Mainz 05,W,Werder Bremen
+680,1,2,2024-02-07,Mainz 05,Union Berlin,D,Mainz 05,1,0,Union Berlin,Mainz 05,D,Union Berlin
+681,0,2,2024-02-11,Mainz 05,Stuttgart,L,Mainz 05,2,2,Stuttgart,Mainz 05,W,Stuttgart
+682,2,2,2024-02-17,Mainz 05,Augsburg,W,Mainz 05,0,0,Augsburg,Mainz 05,L,Augsburg
+683,0,0,2024-02-23,Mainz 05,Leverkusen,L,Mainz 05,2,2,Bayer Leverkusen,Mainz 05,W,Leverkusen
+684,1,2,2024-03-02,Mainz 05,Gladbach,D,Mainz 05,1,1,Monchengladbach,Mainz 05,D,Gladbach
+685,0,0,2024-03-09,Mainz 05,Bayern Munich,L,Mainz 05,2,2,Bayern Munich,Mainz 05,W,Bayern Munich
+686,2,0,2024-03-16,Mainz 05,Bochum,W,Mainz 05,0,0,Bochum,Mainz 05,L,Bochum
+687,1,0,2024-03-30,Mainz 05,RB Leipzig,D,Mainz 05,1,2,RB Leipzig,Mainz 05,D,RB Leipzig
+688,2,0,2024-04-06,Mainz 05,Darmstadt 98,W,Mainz 05,0,0,Darmstadt 98,Mainz 05,L,Darmstadt 98
+689,2,2,2024-04-13,Mainz 05,Hoffenheim,W,Mainz 05,0,0,Hoffenheim,Mainz 05,L,Hoffenheim
+690,1,2,2024-04-21,Mainz 05,Freiburg,D,Mainz 05,1,2,Freiburg,Mainz 05,D,Freiburg
+691,1,2,2024-04-28,Mainz 05,Köln,D,Mainz 05,1,1,Koln,Mainz 05,D,Koln
+692,1,1,2024-05-05,Mainz 05,Heidenheim,D,Mainz 05,1,2,Heidenheim,Mainz 05,D,Heidenheim
+693,2,2,2024-05-11,Mainz 05,Dortmund,W,Mainz 05,0,0,Dortmund,Mainz 05,L,Dortmund
+694,2,2,2024-05-18,Mainz 05,Wolfsburg,W,Mainz 05,0,2,Wolfsburg,Mainz 05,L,Wolfsburg
+695,1,2,2024-08-24,Mainz 05,Union Berlin,D,Mainz 05,1,0,Union Berlin,Mainz 05,D,Union Berlin
+696,1,2,2024-08-31,Mainz 05,Stuttgart,D,Mainz 05,1,2,Stuttgart,Mainz 05,D,Stuttgart
+697,0,2,2024-09-15,Mainz 05,Werder Bremen,L,Mainz 05,2,0,Werder Bremen,Mainz 05,W,Werder Bremen
+698,2,0,2024-09-20,Mainz 05,Augsburg,W,Mainz 05,0,2,Augsburg,Mainz 05,L,Augsburg
+699,0,2,2024-09-28,Mainz 05,Heidenheim,L,Mainz 05,2,0,Heidenheim,Mainz 05,W,Heidenheim
+700,2,0,2024-10-05,Mainz 05,St. Pauli,W,Mainz 05,0,2,St Pauli,Mainz 05,L,St. Pauli
+701,0,2,2024-10-19,Mainz 05,RB Leipzig,L,Mainz 05,2,0,RB Leipzig,Mainz 05,W,RB Leipzig
+702,1,2,2024-10-25,Mainz 05,Gladbach,D,Mainz 05,1,0,Monchengladbach,Mainz 05,D,Gladbach
+703,1,2,2024-11-03,Mainz 05,Freiburg,D,Mainz 05,1,2,Freiburg,Mainz 05,D,Freiburg
+704,2,2,2024-11-09,Mainz 05,Dortmund,W,Mainz 05,0,0,Dortmund,Mainz 05,L,Dortmund
+705,2,2,2024-11-24,Mainz 05,Holstein Kiel,W,Mainz 05,0,2,Holstein Kiel,Mainz 05,L,Holstein Kiel
+706,2,2,2024-12-01,Mainz 05,Hoffenheim,W,Mainz 05,0,1,Hoffenheim,Mainz 05,L,Hoffenheim
+707,0,2,2024-12-08,Mainz 05,Wolfsburg,L,Mainz 05,2,2,Wolfsburg,Mainz 05,W,Wolfsburg
+708,2,2,2024-12-14,Mainz 05,Bayern Munich,W,Mainz 05,0,2,Bayern Munich,Mainz 05,L,Bayern Munich
+709,2,0,2024-12-21,Mainz 05,Eint Frankfurt,W,Mainz 05,0,2,Eintracht Frankfurt,Mainz 05,L,Eint Frankfurt
+710,0,2,2023-01-22,Monchengladbach,Leverkusen,L,Gladbach,2,0,Bayer Leverkusen,Gladbach,W,Leverkusen
+711,0,2,2023-01-25,Monchengladbach,Augsburg,L,Gladbach,2,2,Augsburg,Gladbach,W,Augsburg
+712,2,0,2023-01-28,Monchengladbach,Hoffenheim,W,Gladbach,0,2,Hoffenheim,Gladbach,L,Hoffenheim
+713,1,2,2023-02-04,Monchengladbach,Schalke 04,D,Gladbach,1,0,Schalke 04,Gladbach,D,Schalke 04
+714,0,0,2023-02-12,Monchengladbach,Hertha BSC,L,Gladbach,2,0,Hertha BSC,Gladbach,W,Hertha BSC
+715,2,2,2023-02-18,Monchengladbach,Bayern Munich,W,Gladbach,0,2,Bayern Munich,Gladbach,L,Bayern Munich
+716,0,0,2023-02-24,Monchengladbach,Mainz 05,L,Gladbach,2,2,Mainz 05,Gladbach,W,Mainz 05
+717,1,0,2023-03-04,Monchengladbach,Freiburg,D,Gladbach,1,0,Freiburg,Gladbach,D,Freiburg
+718,0,0,2023-03-11,Monchengladbach,RB Leipzig,L,Gladbach,2,2,RB Leipzig,Gladbach,W,RB Leipzig
+719,1,2,2023-03-17,Monchengladbach,Werder Bremen,D,Gladbach,1,2,Werder Bremen,Gladbach,D,Werder Bremen
+720,1,0,2023-04-02,Monchengladbach,Köln,D,Gladbach,1,2,Koln,Gladbach,D,Koln
+721,2,2,2023-04-09,Monchengladbach,Wolfsburg,W,Gladbach,0,1,Wolfsburg,Gladbach,L,Wolfsburg
+722,1,2,2023-04-15,Monchengladbach,Eint Frankfurt,D,Gladbach,1,2,Eintracht Frankfurt,Gladbach,D,Eint Frankfurt
+723,0,0,2023-04-23,Monchengladbach,Union Berlin,L,Gladbach,2,0,Union Berlin,Gladbach,W,Union Berlin
+724,0,0,2023-04-29,Monchengladbach,Stuttgart,L,Gladbach,2,2,Stuttgart,Gladbach,W,Stuttgart
+725,2,0,2023-05-06,Monchengladbach,Bochum,W,Gladbach,0,0,Bochum,Gladbach,L,Bochum
+726,0,0,2023-05-13,Monchengladbach,Dortmund,L,Gladbach,2,2,Dortmund,Gladbach,W,Dortmund
+727,1,2,2023-05-21,Monchengladbach,Leverkusen,D,Gladbach,1,2,Bayer Leverkusen,Gladbach,D,Leverkusen
+728,2,2,2023-05-27,Monchengladbach,Augsburg,W,Gladbach,0,0,Augsburg,Gladbach,L,Augsburg
+729,1,2,2023-08-19,Monchengladbach,Augsburg,D,Gladbach,1,0,Augsburg,Gladbach,D,Augsburg
+730,0,2,2023-08-26,Monchengladbach,Leverkusen,L,Gladbach,2,0,Bayer Leverkusen,Gladbach,W,Leverkusen
+731,0,2,2023-09-02,Monchengladbach,Bayern Munich,L,Gladbach,2,2,Bayern Munich,Gladbach,W,Bayern Munich
+732,1,0,2023-09-17,Monchengladbach,Darmstadt 98,D,Gladbach,1,0,Darmstadt 98,Gladbach,D,Darmstadt 98
+733,0,2,2023-09-23,Monchengladbach,RB Leipzig,L,Gladbach,2,2,RB Leipzig,Gladbach,W,RB Leipzig
+734,2,0,2023-09-30,Monchengladbach,Bochum,W,Gladbach,0,0,Bochum,Gladbach,L,Bochum
+735,1,2,2023-10-06,Monchengladbach,Mainz 05,D,Gladbach,1,0,Mainz 05,Gladbach,D,Mainz 05
+736,0,0,2023-10-22,Monchengladbach,Köln,L,Gladbach,2,2,Koln,Gladbach,W,Koln
+737,2,2,2023-10-28,Monchengladbach,Heidenheim,W,Gladbach,0,0,Heidenheim,Gladbach,L,Heidenheim
+738,1,0,2023-11-04,Monchengladbach,Freiburg,D,Gladbach,1,2,Freiburg,Gladbach,D,Freiburg
+739,2,0,2023-11-10,Monchengladbach,Wolfsburg,W,Gladbach,0,0,Wolfsburg,Gladbach,L,Wolfsburg
+740,0,0,2023-11-25,Monchengladbach,Dortmund,L,Gladbach,2,0,Dortmund,Gladbach,W,Dortmund
+741,2,2,2023-12-02,Monchengladbach,Hoffenheim,W,Gladbach,0,0,Hoffenheim,Gladbach,L,Hoffenheim
+742,0,2,2023-12-09,Monchengladbach,Union Berlin,L,Gladbach,2,0,Union Berlin,Gladbach,W,Union Berlin
+743,1,0,2023-12-15,Monchengladbach,Werder Bremen,D,Gladbach,1,0,Werder Bremen,Gladbach,D,Werder Bremen
+744,0,0,2023-12-20,Monchengladbach,Eint Frankfurt,L,Gladbach,2,2,Eintracht Frankfurt,Gladbach,W,Eint Frankfurt
+745,2,0,2024-01-14,Monchengladbach,Stuttgart,W,Gladbach,0,0,Stuttgart,Gladbach,L,Stuttgart
+746,0,2,2024-01-21,Monchengladbach,Augsburg,L,Gladbach,2,0,Augsburg,Gladbach,W,Augsburg
+747,1,0,2024-01-27,Monchengladbach,Leverkusen,D,Gladbach,1,2,Bayer Leverkusen,Gladbach,D,Leverkusen
+748,0,0,2024-02-03,Monchengladbach,Bayern Munich,L,Gladbach,2,2,Bayern Munich,Gladbach,W,Bayern Munich
+749,1,0,2024-02-10,Monchengladbach,Darmstadt 98,D,Gladbach,1,0,Darmstadt 98,Gladbach,D,Darmstadt 98
+750,0,2,2024-02-17,Monchengladbach,RB Leipzig,L,Gladbach,2,2,RB Leipzig,Gladbach,W,RB Leipzig
+751,2,2,2024-02-24,Monchengladbach,Bochum,W,Gladbach,0,0,Bochum,Gladbach,L,Bochum
+752,1,1,2024-03-02,Monchengladbach,Mainz 05,D,Gladbach,1,2,Mainz 05,Gladbach,D,Mainz 05
+753,1,2,2024-03-09,Monchengladbach,Köln,D,Gladbach,1,0,Koln,Gladbach,D,Koln
+754,1,2,2024-03-16,Monchengladbach,Heidenheim,D,Gladbach,1,0,Heidenheim,Gladbach,D,Heidenheim
+755,0,2,2024-03-30,Monchengladbach,Freiburg,L,Gladbach,2,0,Freiburg,Gladbach,W,Freiburg
+756,2,0,2024-04-07,Monchengladbach,Wolfsburg,W,Gladbach,0,2,Wolfsburg,Gladbach,L,Wolfsburg
+757,0,2,2024-04-13,Monchengladbach,Dortmund,L,Gladbach,2,2,Dortmund,Gladbach,W,Dortmund
+758,0,0,2024-04-20,Monchengladbach,Hoffenheim,L,Gladbach,2,0,Hoffenheim,Gladbach,W,Hoffenheim
+759,1,2,2024-04-28,Monchengladbach,Union Berlin,D,Gladbach,1,0,Union Berlin,Gladbach,D,Union Berlin
+760,1,0,2024-05-04,Monchengladbach,Werder Bremen,D,Gladbach,1,0,Werder Bremen,Gladbach,D,Werder Bremen
+761,1,2,2024-05-11,Monchengladbach,Eint Frankfurt,D,Gladbach,1,0,Eintracht Frankfurt,Gladbach,D,Eint Frankfurt
+762,0,0,2024-05-18,Monchengladbach,Stuttgart,L,Gladbach,2,2,Stuttgart,Gladbach,W,Stuttgart
+763,0,2,2024-08-23,Monchengladbach,Leverkusen,L,Gladbach,2,2,Bayer Leverkusen,Gladbach,W,Leverkusen
+764,2,0,2024-08-31,Monchengladbach,Bochum,W,Gladbach,0,0,Bochum,Gladbach,L,Bochum
+765,0,2,2024-09-14,Monchengladbach,Stuttgart,L,Gladbach,2,2,Stuttgart,Gladbach,W,Stuttgart
+766,0,0,2024-09-21,Monchengladbach,Eint Frankfurt,L,Gladbach,2,2,Eintracht Frankfurt,Gladbach,W,Eint Frankfurt
+767,2,2,2024-09-28,Monchengladbach,Union Berlin,W,Gladbach,0,0,Union Berlin,Gladbach,L,Union Berlin
+768,0,2,2024-10-04,Monchengladbach,Augsburg,L,Gladbach,2,2,Augsburg,Gladbach,W,Augsburg
+769,2,2,2024-10-19,Monchengladbach,Heidenheim,W,Gladbach,0,0,Heidenheim,Gladbach,L,Heidenheim
+770,1,0,2024-10-25,Monchengladbach,Mainz 05,D,Gladbach,1,2,Mainz 05,Gladbach,D,Mainz 05
+771,2,2,2024-11-03,Monchengladbach,Werder Bremen,W,Gladbach,0,0,Werder Bremen,Gladbach,L,Werder Bremen
+772,1,2,2024-11-09,Monchengladbach,RB Leipzig,D,Gladbach,1,2,RB Leipzig,Gladbach,D,RB Leipzig
+773,2,2,2024-11-24,Monchengladbach,St. Pauli,W,Gladbach,0,0,St Pauli,Gladbach,L,St. Pauli
+774,0,2,2024-11-30,Monchengladbach,Freiburg,L,Gladbach,2,0,Freiburg,Gladbach,W,Freiburg
+775,1,2,2024-12-07,Monchengladbach,Dortmund,D,Gladbach,1,0,Dortmund,Gladbach,D,Dortmund
+776,2,2,2024-12-14,Monchengladbach,Holstein Kiel,W,Gladbach,0,0,Holstein Kiel,Gladbach,L,Holstein Kiel
+777,2,2,2024-12-21,Monchengladbach,Hoffenheim,W,Gladbach,0,2,Hoffenheim,Gladbach,L,Hoffenheim
+778,1,2,2023-01-20,RB Leipzig,Bayern Munich,D,RB Leipzig,1,2,Bayern Munich,RB Leipzig,D,Bayern Munich
+779,2,2,2023-01-24,RB Leipzig,Schalke 04,W,RB Leipzig,0,2,Schalke 04,RB Leipzig,L,Schalke 04
+780,2,2,2023-01-27,RB Leipzig,Stuttgart,W,RB Leipzig,0,0,Stuttgart,RB Leipzig,L,Stuttgart
+781,1,2,2023-02-04,RB Leipzig,Köln,D,RB Leipzig,1,2,Koln,RB Leipzig,D,Koln
+782,0,2,2023-02-11,RB Leipzig,Union Berlin,L,RB Leipzig,2,0,Union Berlin,RB Leipzig,W,Union Berlin
+783,2,0,2023-02-18,RB Leipzig,Wolfsburg,W,RB Leipzig,0,2,Wolfsburg,RB Leipzig,L,Wolfsburg
+784,2,0,2023-02-25,RB Leipzig,Eint Frankfurt,W,RB Leipzig,0,0,Eintracht Frankfurt,RB Leipzig,L,Eint Frankfurt
+785,0,0,2023-03-03,RB Leipzig,Dortmund,L,RB Leipzig,2,2,Dortmund,RB Leipzig,W,Dortmund
+786,2,2,2023-03-11,RB Leipzig,Gladbach,W,RB Leipzig,0,0,Monchengladbach,RB Leipzig,L,Gladbach
+787,0,0,2023-03-18,RB Leipzig,Bochum,L,RB Leipzig,2,0,Bochum,RB Leipzig,W,Bochum
+788,0,2,2023-04-01,RB Leipzig,Mainz 05,L,RB Leipzig,2,0,Mainz 05,RB Leipzig,W,Mainz 05
+789,2,2,2023-04-08,RB Leipzig,Hertha BSC,W,RB Leipzig,0,2,Hertha BSC,RB Leipzig,L,Hertha BSC
+790,2,2,2023-04-15,RB Leipzig,Augsburg,W,RB Leipzig,0,0,Augsburg,RB Leipzig,L,Augsburg
+791,0,1,2023-04-23,RB Leipzig,Leverkusen,L,RB Leipzig,2,2,Bayer Leverkusen,RB Leipzig,W,Leverkusen
+792,2,2,2023-04-29,RB Leipzig,Hoffenheim,W,RB Leipzig,0,0,Hoffenheim,RB Leipzig,L,Hoffenheim
+793,2,0,2023-05-06,RB Leipzig,Freiburg,W,RB Leipzig,0,2,Freiburg,RB Leipzig,L,Freiburg
+794,2,2,2023-05-14,RB Leipzig,Werder Bremen,W,RB Leipzig,0,0,Werder Bremen,RB Leipzig,L,Werder Bremen
+795,2,0,2023-05-20,RB Leipzig,Bayern Munich,W,RB Leipzig,0,2,Bayern Munich,RB Leipzig,L,Bayern Munich
+796,2,2,2023-05-27,RB Leipzig,Schalke 04,W,RB Leipzig,0,0,Schalke 04,RB Leipzig,L,Schalke 04
+797,0,2,2023-08-19,RB Leipzig,Leverkusen,L,RB Leipzig,2,2,Bayer Leverkusen,RB Leipzig,W,Leverkusen
+798,2,2,2023-08-25,RB Leipzig,Stuttgart,W,RB Leipzig,0,2,Stuttgart,RB Leipzig,L,Stuttgart
+799,2,2,2023-09-03,RB Leipzig,Union Berlin,W,RB Leipzig,0,2,Union Berlin,RB Leipzig,L,Union Berlin
+800,2,2,2023-09-16,RB Leipzig,Augsburg,W,RB Leipzig,0,0,Augsburg,RB Leipzig,L,Augsburg
+801,2,2,2023-09-23,RB Leipzig,Gladbach,W,RB Leipzig,0,2,Monchengladbach,RB Leipzig,L,Gladbach
+802,1,0,2023-09-30,RB Leipzig,Bayern Munich,D,RB Leipzig,1,2,Bayern Munich,RB Leipzig,D,Bayern Munich
+803,1,0,2023-10-07,RB Leipzig,Bochum,D,RB Leipzig,1,0,Bochum,RB Leipzig,D,Bochum
+804,2,0,2023-10-21,RB Leipzig,Darmstadt 98,W,RB Leipzig,0,2,Darmstadt 98,RB Leipzig,L,Darmstadt 98
+805,2,2,2023-10-28,RB Leipzig,Köln,W,RB Leipzig,0,0,Koln,RB Leipzig,L,Koln
+806,0,2,2023-11-04,RB Leipzig,Mainz 05,L,RB Leipzig,2,2,Mainz 05,RB Leipzig,W,Mainz 05
+807,2,2,2023-11-12,RB Leipzig,Freiburg,W,RB Leipzig,0,0,Freiburg,RB Leipzig,L,Freiburg
+808,0,2,2023-11-25,RB Leipzig,Wolfsburg,L,RB Leipzig,2,2,Wolfsburg,RB Leipzig,W,Wolfsburg
+809,2,2,2023-12-02,RB Leipzig,Heidenheim,W,RB Leipzig,0,0,Heidenheim,RB Leipzig,L,Heidenheim
+810,2,2,2023-12-09,RB Leipzig,Dortmund,W,RB Leipzig,0,2,Dortmund,RB Leipzig,L,Dortmund
+811,2,2,2023-12-16,RB Leipzig,Hoffenheim,W,RB Leipzig,0,0,Hoffenheim,RB Leipzig,L,Hoffenheim
+812,1,2,2023-12-19,RB Leipzig,Werder Bremen,D,RB Leipzig,1,2,Werder Bremen,RB Leipzig,D,Werder Bremen
+813,0,2,2024-01-13,RB Leipzig,Eint Frankfurt,L,RB Leipzig,2,0,Eintracht Frankfurt,RB Leipzig,W,Eint Frankfurt
+814,0,2,2024-01-20,RB Leipzig,Leverkusen,L,RB Leipzig,2,2,Bayer Leverkusen,RB Leipzig,W,Leverkusen
+815,0,2,2024-01-27,RB Leipzig,Stuttgart,L,RB Leipzig,2,2,Stuttgart,RB Leipzig,W,Stuttgart
+816,2,2,2024-02-04,RB Leipzig,Union Berlin,W,RB Leipzig,0,0,Union Berlin,RB Leipzig,L,Union Berlin
+817,1,0,2024-02-10,RB Leipzig,Augsburg,D,RB Leipzig,1,2,Augsburg,RB Leipzig,D,Augsburg
+818,2,2,2024-02-17,RB Leipzig,Gladbach,W,RB Leipzig,0,2,Monchengladbach,RB Leipzig,L,Gladbach
+819,0,0,2024-02-24,RB Leipzig,Bayern Munich,L,RB Leipzig,2,2,Bayern Munich,RB Leipzig,W,Bayern Munich
+820,2,0,2024-03-02,RB Leipzig,Bochum,W,RB Leipzig,0,2,Bochum,RB Leipzig,L,Bochum
+821,2,2,2024-03-09,RB Leipzig,Darmstadt 98,W,RB Leipzig,0,0,Darmstadt 98,RB Leipzig,L,Darmstadt 98
+822,2,2,2024-03-15,RB Leipzig,Köln,W,RB Leipzig,0,2,Koln,RB Leipzig,L,Koln
+823,1,2,2024-03-30,RB Leipzig,Mainz 05,D,RB Leipzig,1,0,Mainz 05,RB Leipzig,D,Mainz 05
+824,2,2,2024-04-06,RB Leipzig,Freiburg,W,RB Leipzig,0,2,Freiburg,RB Leipzig,L,Freiburg
+825,2,2,2024-04-13,RB Leipzig,Wolfsburg,W,RB Leipzig,0,0,Wolfsburg,RB Leipzig,L,Wolfsburg
+826,2,2,2024-04-20,RB Leipzig,Heidenheim,W,RB Leipzig,0,2,Heidenheim,RB Leipzig,L,Heidenheim
+827,2,2,2024-04-27,RB Leipzig,Dortmund,W,RB Leipzig,0,0,Dortmund,RB Leipzig,L,Dortmund
+828,1,2,2024-05-03,RB Leipzig,Hoffenheim,D,RB Leipzig,1,0,Hoffenheim,RB Leipzig,D,Hoffenheim
+829,1,2,2024-05-11,RB Leipzig,Werder Bremen,D,RB Leipzig,1,2,Werder Bremen,RB Leipzig,D,Werder Bremen
+830,1,0,2024-05-18,RB Leipzig,Eint Frankfurt,D,RB Leipzig,1,2,Eintracht Frankfurt,RB Leipzig,D,Eint Frankfurt
+831,2,2,2024-08-24,RB Leipzig,Bochum,W,RB Leipzig,0,0,Bochum,RB Leipzig,L,Bochum
+832,2,0,2024-08-31,RB Leipzig,Leverkusen,W,RB Leipzig,0,2,Bayer Leverkusen,RB Leipzig,L,Leverkusen
+833,1,2,2024-09-14,RB Leipzig,Union Berlin,D,RB Leipzig,1,2,Union Berlin,RB Leipzig,D,Union Berlin
+834,1,0,2024-09-22,RB Leipzig,St. Pauli,D,RB Leipzig,1,0,St Pauli,RB Leipzig,D,St. Pauli
+835,2,2,2024-09-28,RB Leipzig,Augsburg,W,RB Leipzig,0,0,Augsburg,RB Leipzig,L,Augsburg
+836,2,2,2024-10-06,RB Leipzig,Heidenheim,W,RB Leipzig,0,2,Heidenheim,RB Leipzig,L,Heidenheim
+837,2,0,2024-10-19,RB Leipzig,Mainz 05,W,RB Leipzig,0,2,Mainz 05,RB Leipzig,L,Mainz 05
+838,2,2,2024-10-26,RB Leipzig,Freiburg,W,RB Leipzig,0,0,Freiburg,RB Leipzig,L,Freiburg
+839,0,0,2024-11-02,RB Leipzig,Dortmund,L,RB Leipzig,2,2,Dortmund,RB Leipzig,W,Dortmund
+840,1,2,2024-11-09,RB Leipzig,Gladbach,D,RB Leipzig,1,2,Monchengladbach,RB Leipzig,D,Gladbach
+841,0,0,2024-11-23,RB Leipzig,Hoffenheim,L,RB Leipzig,2,1,Hoffenheim,RB Leipzig,W,Hoffenheim
+842,0,2,2024-11-30,RB Leipzig,Wolfsburg,L,RB Leipzig,2,2,Wolfsburg,RB Leipzig,W,Wolfsburg
+843,2,0,2024-12-07,RB Leipzig,Holstein Kiel,W,RB Leipzig,0,0,Holstein Kiel,RB Leipzig,L,Holstein Kiel
+844,2,0,2024-12-15,RB Leipzig,Eint Frankfurt,W,RB Leipzig,0,2,Eintracht Frankfurt,RB Leipzig,L,Eint Frankfurt
+845,0,0,2024-12-20,RB Leipzig,Bayern Munich,L,RB Leipzig,2,2,Bayern Munich,RB Leipzig,W,Bayern Munich
+846,0,0,2023-01-21,Schalke 04,Eint Frankfurt,L,Schalke 04,2,2,Eintracht Frankfurt,Schalke 04,W,Eint Frankfurt
+847,0,2,2023-01-24,Schalke 04,RB Leipzig,L,Schalke 04,2,2,RB Leipzig,Schalke 04,W,RB Leipzig
+848,1,0,2023-01-29,Schalke 04,Köln,D,Schalke 04,1,0,Koln,Schalke 04,D,Koln
+849,1,0,2023-02-04,Schalke 04,Gladbach,D,Schalke 04,1,2,Monchengladbach,Schalke 04,D,Gladbach
+850,1,0,2023-02-10,Schalke 04,Wolfsburg,D,Schalke 04,1,2,Wolfsburg,Schalke 04,D,Wolfsburg
+851,1,2,2023-02-19,Schalke 04,Union Berlin,D,Schalke 04,1,0,Union Berlin,Schalke 04,D,Union Berlin
+852,2,2,2023-02-25,Schalke 04,Stuttgart,W,Schalke 04,0,2,Stuttgart,Schalke 04,L,Stuttgart
+853,2,0,2023-03-04,Schalke 04,Bochum,W,Schalke 04,0,0,Bochum,Schalke 04,L,Bochum
+854,1,2,2023-03-11,Schalke 04,Dortmund,D,Schalke 04,1,2,Dortmund,Schalke 04,D,Dortmund
+855,1,0,2023-03-18,Schalke 04,Augsburg,D,Schalke 04,1,0,Augsburg,Schalke 04,D,Augsburg
+856,0,2,2023-04-01,Schalke 04,Leverkusen,L,Schalke 04,2,2,Bayer Leverkusen,Schalke 04,W,Leverkusen
+857,0,0,2023-04-09,Schalke 04,Hoffenheim,L,Schalke 04,2,2,Hoffenheim,Schalke 04,W,Hoffenheim
+858,2,2,2023-04-14,Schalke 04,Hertha BSC,W,Schalke 04,0,0,Hertha BSC,Schalke 04,L,Hertha BSC
+859,0,0,2023-04-23,Schalke 04,Freiburg,L,Schalke 04,2,2,Freiburg,Schalke 04,W,Freiburg
+860,2,2,2023-04-29,Schalke 04,Werder Bremen,W,Schalke 04,0,2,Werder Bremen,Schalke 04,L,Werder Bremen
+861,2,2,2023-05-05,Schalke 04,Mainz 05,W,Schalke 04,0,2,Mainz 05,Schalke 04,L,Mainz 05
+862,0,0,2023-05-13,Schalke 04,Bayern Munich,L,Schalke 04,2,2,Bayern Munich,Schalke 04,W,Bayern Munich
+863,1,0,2023-05-20,Schalke 04,Eint Frankfurt,D,Schalke 04,1,2,Eintracht Frankfurt,Schalke 04,D,Eint Frankfurt
+864,0,0,2023-05-27,Schalke 04,RB Leipzig,L,Schalke 04,2,2,RB Leipzig,Schalke 04,W,RB Leipzig
+865,1,0,2024-09-22,St Pauli,RB Leipzig,D,St. Pauli,1,0,RB Leipzig,St. Pauli,D,RB Leipzig
+866,2,0,2024-09-28,St Pauli,Freiburg,W,St. Pauli,0,2,Freiburg,St. Pauli,L,Freiburg
+867,0,2,2024-10-05,St Pauli,Mainz 05,L,St. Pauli,2,0,Mainz 05,St. Pauli,W,Mainz 05
+868,0,0,2024-10-18,St Pauli,Dortmund,L,St. Pauli,2,2,Dortmund,St. Pauli,W,Dortmund
+869,1,2,2024-10-26,St Pauli,Wolfsburg,D,St. Pauli,1,0,Wolfsburg,St. Pauli,D,Wolfsburg
+870,2,2,2024-11-02,St Pauli,Hoffenheim,W,St. Pauli,0,2,Hoffenheim,St. Pauli,L,Hoffenheim
+871,0,0,2024-11-09,St Pauli,Bayern Munich,L,St. Pauli,2,2,Bayern Munich,St. Pauli,W,Bayern Munich
+872,0,0,2024-11-24,St Pauli,Gladbach,L,St. Pauli,2,2,Monchengladbach,St. Pauli,W,Gladbach
+873,2,2,2024-11-29,St Pauli,Holstein Kiel,W,St. Pauli,0,0,Holstein Kiel,St. Pauli,L,Holstein Kiel
+874,0,0,2024-12-07,St Pauli,Leverkusen,L,St. Pauli,2,2,Bayer Leverkusen,St. Pauli,W,Leverkusen
+875,0,2,2024-12-14,St Pauli,Werder Bremen,L,St. Pauli,2,0,Werder Bremen,St. Pauli,W,Werder Bremen
+876,2,0,2024-12-21,St Pauli,Stuttgart,W,St. Pauli,0,2,Stuttgart,St. Pauli,L,Stuttgart
+877,1,2,2023-01-21,Stuttgart,Mainz 05,D,Stuttgart,1,0,Mainz 05,Stuttgart,D,Mainz 05
+878,1,0,2023-01-24,Stuttgart,Hoffenheim,D,Stuttgart,1,2,Hoffenheim,Stuttgart,D,Hoffenheim
+879,0,0,2023-01-27,Stuttgart,RB Leipzig,L,Stuttgart,2,2,RB Leipzig,Stuttgart,W,RB Leipzig
+880,0,0,2023-02-05,Stuttgart,Werder Bremen,L,Stuttgart,2,0,Werder Bremen,Stuttgart,W,Werder Bremen
+881,0,0,2023-02-11,Stuttgart,Freiburg,L,Stuttgart,2,2,Freiburg,Stuttgart,W,Freiburg
+882,2,2,2023-02-18,Stuttgart,Köln,W,Stuttgart,0,0,Koln,Stuttgart,L,Koln
+883,0,2,2023-02-25,Stuttgart,Schalke 04,L,Stuttgart,2,2,Schalke 04,Stuttgart,W,Schalke 04
+884,0,2,2023-03-04,Stuttgart,Bayern Munich,L,Stuttgart,2,2,Bayern Munich,Stuttgart,W,Bayern Munich
+885,1,0,2023-03-11,Stuttgart,Eint Frankfurt,D,Stuttgart,1,2,Eintracht Frankfurt,Stuttgart,D,Eint Frankfurt
+886,0,2,2023-03-18,Stuttgart,Wolfsburg,L,Stuttgart,2,2,Wolfsburg,Stuttgart,W,Wolfsburg
+887,0,0,2023-04-01,Stuttgart,Union Berlin,L,Stuttgart,2,0,Union Berlin,Stuttgart,W,Union Berlin
+888,2,0,2023-04-09,Stuttgart,Bochum,W,Stuttgart,0,0,Bochum,Stuttgart,L,Bochum
+889,1,2,2023-04-15,Stuttgart,Dortmund,D,Stuttgart,1,2,Dortmund,Stuttgart,D,Dortmund
+890,1,2,2023-04-21,Stuttgart,Augsburg,D,Stuttgart,1,0,Augsburg,Stuttgart,D,Augsburg
+891,2,2,2023-04-29,Stuttgart,Gladbach,W,Stuttgart,0,0,Monchengladbach,Stuttgart,L,Gladbach
+892,0,0,2023-05-06,Stuttgart,Hertha BSC,L,Stuttgart,2,0,Hertha BSC,Stuttgart,W,Hertha BSC
+893,1,2,2023-05-14,Stuttgart,Leverkusen,D,Stuttgart,1,0,Bayer Leverkusen,Stuttgart,D,Leverkusen
+894,2,0,2023-05-21,Stuttgart,Mainz 05,W,Stuttgart,0,0,Mainz 05,Stuttgart,L,Mainz 05
+895,1,2,2023-05-27,Stuttgart,Hoffenheim,D,Stuttgart,1,0,Hoffenheim,Stuttgart,D,Hoffenheim
+896,2,2,2023-08-19,Stuttgart,Bochum,W,Stuttgart,0,2,Bochum,Stuttgart,L,Bochum
+897,0,2,2023-08-25,Stuttgart,RB Leipzig,L,Stuttgart,2,2,RB Leipzig,Stuttgart,W,RB Leipzig
+898,2,2,2023-09-02,Stuttgart,Freiburg,W,Stuttgart,0,2,Freiburg,Stuttgart,L,Freiburg
+899,2,2,2023-09-16,Stuttgart,Mainz 05,W,Stuttgart,0,0,Mainz 05,Stuttgart,L,Mainz 05
+900,2,2,2023-09-22,Stuttgart,Darmstadt 98,W,Stuttgart,0,0,Darmstadt 98,Stuttgart,L,Darmstadt 98
+901,2,2,2023-09-30,Stuttgart,Köln,W,Stuttgart,0,2,Koln,Stuttgart,L,Koln
+902,2,2,2023-10-07,Stuttgart,Wolfsburg,W,Stuttgart,0,0,Wolfsburg,Stuttgart,L,Wolfsburg
+903,2,2,2023-10-21,Stuttgart,Union Berlin,W,Stuttgart,0,2,Union Berlin,Stuttgart,L,Union Berlin
+904,0,2,2023-10-28,Stuttgart,Hoffenheim,L,Stuttgart,2,0,Hoffenheim,Stuttgart,W,Hoffenheim
+905,0,2,2023-11-05,Stuttgart,Heidenheim,L,Stuttgart,2,0,Heidenheim,Stuttgart,W,Heidenheim
+906,2,2,2023-11-11,Stuttgart,Dortmund,W,Stuttgart,0,0,Dortmund,Stuttgart,L,Dortmund
+907,2,0,2023-11-25,Stuttgart,Eint Frankfurt,W,Stuttgart,0,2,Eintracht Frankfurt,Stuttgart,L,Eint Frankfurt
+908,2,2,2023-12-02,Stuttgart,Werder Bremen,W,Stuttgart,0,0,Werder Bremen,Stuttgart,L,Werder Bremen
+909,1,2,2023-12-10,Stuttgart,Leverkusen,D,Stuttgart,1,2,Bayer Leverkusen,Stuttgart,D,Leverkusen
+910,0,0,2023-12-17,Stuttgart,Bayern Munich,L,Stuttgart,2,2,Bayern Munich,Stuttgart,W,Bayern Munich
+911,2,2,2023-12-20,Stuttgart,Augsburg,W,Stuttgart,0,0,Augsburg,Stuttgart,L,Augsburg
+912,0,0,2024-01-14,Stuttgart,Gladbach,L,Stuttgart,2,0,Monchengladbach,Stuttgart,W,Gladbach
+913,0,0,2024-01-20,Stuttgart,Bochum,L,Stuttgart,2,2,Bochum,Stuttgart,W,Bochum
+914,2,2,2024-01-27,Stuttgart,RB Leipzig,W,Stuttgart,0,2,RB Leipzig,Stuttgart,L,RB Leipzig
+915,2,0,2024-02-03,Stuttgart,Freiburg,W,Stuttgart,0,2,Freiburg,Stuttgart,L,Freiburg
+916,2,2,2024-02-11,Stuttgart,Mainz 05,W,Stuttgart,0,2,Mainz 05,Stuttgart,L,Mainz 05
+917,2,2,2024-02-17,Stuttgart,Darmstadt 98,W,Stuttgart,0,0,Darmstadt 98,Stuttgart,L,Darmstadt 98
+918,1,2,2024-02-24,Stuttgart,Köln,D,Stuttgart,1,0,Koln,Stuttgart,D,Koln
+919,2,0,2024-03-02,Stuttgart,Wolfsburg,W,Stuttgart,0,2,Wolfsburg,Stuttgart,L,Wolfsburg
+920,2,2,2024-03-08,Stuttgart,Union Berlin,W,Stuttgart,0,0,Union Berlin,Stuttgart,L,Union Berlin
+921,2,0,2024-03-16,Stuttgart,Hoffenheim,W,Stuttgart,0,2,Hoffenheim,Stuttgart,L,Hoffenheim
+922,1,2,2024-03-31,Stuttgart,Heidenheim,D,Stuttgart,1,0,Heidenheim,Stuttgart,D,Heidenheim
+923,2,2,2024-04-06,Stuttgart,Dortmund,W,Stuttgart,0,2,Dortmund,Stuttgart,L,Dortmund
+924,2,2,2024-04-13,Stuttgart,Eint Frankfurt,W,Stuttgart,0,2,Eintracht Frankfurt,Stuttgart,L,Eint Frankfurt
+925,0,2,2024-04-21,Stuttgart,Werder Bremen,L,Stuttgart,2,0,Werder Bremen,Stuttgart,W,Werder Bremen
+926,1,0,2024-04-27,Stuttgart,Leverkusen,D,Stuttgart,1,2,Bayer Leverkusen,Stuttgart,D,Leverkusen
+927,2,2,2024-05-04,Stuttgart,Bayern Munich,W,Stuttgart,0,2,Bayern Munich,Stuttgart,L,Bayern Munich
+928,2,2,2024-05-10,Stuttgart,Augsburg,W,Stuttgart,0,2,Augsburg,Stuttgart,L,Augsburg
+929,2,2,2024-05-18,Stuttgart,Gladbach,W,Stuttgart,0,0,Monchengladbach,Stuttgart,L,Gladbach
+930,0,2,2024-08-24,Stuttgart,Freiburg,L,Stuttgart,2,2,Freiburg,Stuttgart,W,Freiburg
+931,1,2,2024-08-31,Stuttgart,Mainz 05,D,Stuttgart,1,2,Mainz 05,Stuttgart,D,Mainz 05
+932,2,2,2024-09-14,Stuttgart,Gladbach,W,Stuttgart,0,2,Monchengladbach,Stuttgart,L,Gladbach
+933,2,2,2024-09-22,Stuttgart,Dortmund,W,Stuttgart,0,2,Dortmund,Stuttgart,L,Dortmund
+934,1,2,2024-09-28,Stuttgart,Wolfsburg,D,Stuttgart,1,2,Wolfsburg,Stuttgart,D,Wolfsburg
+935,1,2,2024-10-06,Stuttgart,Hoffenheim,D,Stuttgart,1,0,Hoffenheim,Stuttgart,D,Hoffenheim
+936,0,0,2024-10-19,Stuttgart,Bayern Munich,L,Stuttgart,2,2,Bayern Munich,Stuttgart,W,Bayern Munich
+937,2,2,2024-10-26,Stuttgart,Holstein Kiel,W,Stuttgart,0,0,Holstein Kiel,Stuttgart,L,Holstein Kiel
+938,1,0,2024-11-01,Stuttgart,Leverkusen,D,Stuttgart,1,2,Bayer Leverkusen,Stuttgart,D,Leverkusen
+939,0,0,2024-11-10,Stuttgart,Eint Frankfurt,L,Stuttgart,2,2,Eintracht Frankfurt,Stuttgart,W,Eint Frankfurt
+940,2,2,2024-11-23,Stuttgart,Bochum,W,Stuttgart,0,0,Bochum,Stuttgart,L,Bochum
+941,1,2,2024-11-30,Stuttgart,Werder Bremen,D,Stuttgart,1,2,Werder Bremen,Stuttgart,D,Werder Bremen
+942,2,2,2024-12-06,Stuttgart,Union Berlin,W,Stuttgart,0,0,Union Berlin,Stuttgart,L,Union Berlin
+943,2,0,2024-12-15,Stuttgart,Heidenheim,W,Stuttgart,0,0,Heidenheim,Stuttgart,L,Heidenheim
+944,0,2,2024-12-21,Stuttgart,St. Pauli,L,Stuttgart,2,0,St Pauli,Stuttgart,W,St. Pauli
+945,2,0,2023-01-21,Union Berlin,Hoffenheim,W,Union Berlin,0,0,Hoffenheim,Union Berlin,L,Hoffenheim
+946,2,0,2023-01-25,Union Berlin,Werder Bremen,W,Union Berlin,0,0,Werder Bremen,Union Berlin,L,Werder Bremen
+947,2,0,2023-01-28,Union Berlin,Hertha BSC,W,Union Berlin,0,2,Hertha BSC,Union Berlin,L,Hertha BSC
+948,2,2,2023-02-04,Union Berlin,Mainz 05,W,Union Berlin,0,2,Mainz 05,Union Berlin,L,Mainz 05
+949,2,0,2023-02-11,Union Berlin,RB Leipzig,W,Union Berlin,0,2,RB Leipzig,Union Berlin,L,RB Leipzig
+950,1,0,2023-02-19,Union Berlin,Schalke 04,D,Union Berlin,1,2,Schalke 04,Union Berlin,D,Schalke 04
+951,0,0,2023-02-26,Union Berlin,Bayern Munich,L,Union Berlin,2,2,Bayern Munich,Union Berlin,W,Bayern Munich
+952,1,0,2023-03-04,Union Berlin,Köln,D,Union Berlin,1,0,Koln,Union Berlin,D,Koln
+953,1,0,2023-03-12,Union Berlin,Wolfsburg,D,Union Berlin,1,0,Wolfsburg,Union Berlin,D,Wolfsburg
+954,2,2,2023-03-19,Union Berlin,Eint Frankfurt,W,Union Berlin,0,0,Eintracht Frankfurt,Union Berlin,L,Eint Frankfurt
+955,2,0,2023-04-01,Union Berlin,Stuttgart,W,Union Berlin,0,0,Stuttgart,Union Berlin,L,Stuttgart
+956,0,0,2023-04-08,Union Berlin,Dortmund,L,Union Berlin,2,2,Dortmund,Union Berlin,W,Dortmund
+957,1,0,2023-04-16,Union Berlin,Bochum,D,Union Berlin,1,0,Bochum,Union Berlin,D,Bochum
+958,2,0,2023-04-23,Union Berlin,Gladbach,W,Union Berlin,0,0,Monchengladbach,Union Berlin,L,Gladbach
+959,1,0,2023-04-29,Union Berlin,Leverkusen,D,Union Berlin,1,2,Bayer Leverkusen,Union Berlin,D,Leverkusen
+960,0,2,2023-05-06,Union Berlin,Augsburg,L,Union Berlin,2,0,Augsburg,Union Berlin,W,Augsburg
+961,2,0,2023-05-13,Union Berlin,Freiburg,W,Union Berlin,0,0,Freiburg,Union Berlin,L,Freiburg
+962,0,0,2023-05-20,Union Berlin,Hoffenheim,L,Union Berlin,2,0,Hoffenheim,Union Berlin,W,Hoffenheim
+963,2,2,2023-05-27,Union Berlin,Werder Bremen,W,Union Berlin,0,0,Werder Bremen,Union Berlin,L,Werder Bremen
+964,2,2,2023-08-20,Union Berlin,Mainz 05,W,Union Berlin,0,0,Mainz 05,Union Berlin,L,Mainz 05
+965,0,2,2023-09-03,Union Berlin,RB Leipzig,L,Union Berlin,2,2,RB Leipzig,Union Berlin,W,RB Leipzig
+966,0,2,2023-09-16,Union Berlin,Wolfsburg,L,Union Berlin,2,2,Wolfsburg,Union Berlin,W,Wolfsburg
+967,0,2,2023-09-23,Union Berlin,Hoffenheim,L,Union Berlin,2,2,Hoffenheim,Union Berlin,W,Hoffenheim
+968,0,2,2023-09-30,Union Berlin,Heidenheim,L,Union Berlin,2,2,Heidenheim,Union Berlin,W,Heidenheim
+969,0,2,2023-10-07,Union Berlin,Dortmund,L,Union Berlin,2,2,Dortmund,Union Berlin,W,Dortmund
+970,0,2,2023-10-21,Union Berlin,Stuttgart,L,Union Berlin,2,2,Stuttgart,Union Berlin,W,Stuttgart
+971,0,2,2023-10-28,Union Berlin,Werder Bremen,L,Union Berlin,2,0,Werder Bremen,Union Berlin,W,Werder Bremen
+972,0,0,2023-11-04,Union Berlin,Eint Frankfurt,L,Union Berlin,2,2,Eintracht Frankfurt,Union Berlin,W,Eint Frankfurt
+973,0,0,2023-11-12,Union Berlin,Leverkusen,L,Union Berlin,2,2,Bayer Leverkusen,Union Berlin,W,Leverkusen
+974,1,0,2023-11-25,Union Berlin,Augsburg,D,Union Berlin,1,0,Augsburg,Union Berlin,D,Augsburg
+975,2,0,2023-12-09,Union Berlin,Gladbach,W,Union Berlin,0,2,Monchengladbach,Union Berlin,L,Gladbach
+976,0,0,2023-12-16,Union Berlin,Bochum,L,Union Berlin,2,2,Bochum,Union Berlin,W,Bochum
+977,2,2,2023-12-20,Union Berlin,Köln,W,Union Berlin,0,0,Koln,Union Berlin,L,Koln
+978,1,0,2024-01-13,Union Berlin,Freiburg,D,Union Berlin,1,2,Freiburg,Union Berlin,D,Freiburg
+979,0,0,2024-01-24,Union Berlin,Bayern Munich,L,Union Berlin,2,2,Bayern Munich,Union Berlin,W,Bayern Munich
+980,2,0,2024-01-28,Union Berlin,Darmstadt 98,W,Union Berlin,0,0,Darmstadt 98,Union Berlin,L,Darmstadt 98
+981,0,0,2024-02-04,Union Berlin,RB Leipzig,L,Union Berlin,2,2,RB Leipzig,Union Berlin,W,RB Leipzig
+982,1,0,2024-02-07,Union Berlin,Mainz 05,D,Union Berlin,1,2,Mainz 05,Union Berlin,D,Mainz 05
+983,2,2,2024-02-10,Union Berlin,Wolfsburg,W,Union Berlin,0,0,Wolfsburg,Union Berlin,L,Wolfsburg
+984,2,0,2024-02-17,Union Berlin,Hoffenheim,W,Union Berlin,0,2,Hoffenheim,Union Berlin,L,Hoffenheim
+985,1,2,2024-02-24,Union Berlin,Heidenheim,D,Union Berlin,1,0,Heidenheim,Union Berlin,D,Heidenheim
+986,0,0,2024-03-02,Union Berlin,Dortmund,L,Union Berlin,2,2,Dortmund,Union Berlin,W,Dortmund
+987,0,0,2024-03-08,Union Berlin,Stuttgart,L,Union Berlin,2,2,Stuttgart,Union Berlin,W,Stuttgart
+988,2,2,2024-03-16,Union Berlin,Werder Bremen,W,Union Berlin,0,2,Werder Bremen,Union Berlin,L,Werder Bremen
+989,1,0,2024-03-30,Union Berlin,Eint Frankfurt,D,Union Berlin,1,2,Eintracht Frankfurt,Union Berlin,D,Eint Frankfurt
+990,0,2,2024-04-06,Union Berlin,Leverkusen,L,Union Berlin,2,2,Bayer Leverkusen,Union Berlin,W,Leverkusen
+991,0,0,2024-04-12,Union Berlin,Augsburg,L,Union Berlin,2,2,Augsburg,Union Berlin,W,Augsburg
+992,0,2,2024-04-20,Union Berlin,Bayern Munich,L,Union Berlin,2,0,Bayern Munich,Union Berlin,W,Bayern Munich
+993,1,0,2024-04-28,Union Berlin,Gladbach,D,Union Berlin,1,2,Monchengladbach,Union Berlin,D,Gladbach
+994,0,2,2024-05-05,Union Berlin,Bochum,L,Union Berlin,2,1,Bochum,Union Berlin,W,Bochum
+995,0,0,2024-05-11,Union Berlin,Köln,L,Union Berlin,2,2,Koln,Union Berlin,W,Koln
+996,2,2,2024-05-18,Union Berlin,Freiburg,W,Union Berlin,0,0,Freiburg,Union Berlin,L,Freiburg
+997,1,0,2024-08-24,Union Berlin,Mainz 05,D,Union Berlin,1,2,Mainz 05,Union Berlin,D,Mainz 05
+998,1,2,2024-09-14,Union Berlin,RB Leipzig,D,Union Berlin,1,2,RB Leipzig,Union Berlin,D,RB Leipzig
+999,2,1,2024-09-21,Union Berlin,Hoffenheim,W,Union Berlin,0,0,Hoffenheim,Union Berlin,L,Hoffenheim
+1000,0,0,2024-09-28,Union Berlin,Gladbach,L,Union Berlin,2,2,Monchengladbach,Union Berlin,W,Gladbach
+1001,2,0,2024-10-05,Union Berlin,Dortmund,W,Union Berlin,0,0,Dortmund,Union Berlin,L,Dortmund
+1002,2,0,2024-10-20,Union Berlin,Holstein Kiel,W,Union Berlin,0,0,Holstein Kiel,Union Berlin,L,Holstein Kiel
+1003,1,0,2024-10-27,Union Berlin,Eint Frankfurt,D,Union Berlin,1,2,Eintracht Frankfurt,Union Berlin,D,Eint Frankfurt
+1004,0,0,2024-11-02,Union Berlin,Bayern Munich,L,Union Berlin,2,2,Bayern Munich,Union Berlin,W,Bayern Munich
+1005,1,2,2024-11-08,Union Berlin,Freiburg,D,Union Berlin,1,0,Freiburg,Union Berlin,D,Freiburg
+1006,0,0,2024-11-23,Union Berlin,Wolfsburg,L,Union Berlin,2,2,Wolfsburg,Union Berlin,W,Wolfsburg
+1007,0,0,2024-11-30,Union Berlin,Leverkusen,L,Union Berlin,2,0,Bayer Leverkusen,Union Berlin,W,Leverkusen
+1008,0,0,2024-12-06,Union Berlin,Stuttgart,L,Union Berlin,2,2,Stuttgart,Union Berlin,W,Stuttgart
+1009,1,2,2024-12-14,Union Berlin,Bochum,D,Union Berlin,1,0,Bochum,Union Berlin,D,Bochum
+1010,0,0,2024-12-21,Union Berlin,Werder Bremen,L,Union Berlin,2,2,Werder Bremen,Union Berlin,W,Werder Bremen
+1011,0,0,2023-01-21,Werder Bremen,Köln,L,Werder Bremen,2,2,Koln,Werder Bremen,W,Koln
+1012,0,0,2023-01-25,Werder Bremen,Union Berlin,L,Werder Bremen,2,0,Union Berlin,Werder Bremen,W,Union Berlin
+1013,2,0,2023-01-28,Werder Bremen,Wolfsburg,W,Werder Bremen,0,2,Wolfsburg,Werder Bremen,L,Wolfsburg
+1014,2,0,2023-02-05,Werder Bremen,Stuttgart,W,Werder Bremen,0,0,Stuttgart,Werder Bremen,L,Stuttgart
+1015,0,0,2023-02-11,Werder Bremen,Dortmund,L,Werder Bremen,2,2,Dortmund,Werder Bremen,W,Dortmund
+1016,0,0,2023-02-18,Werder Bremen,Eint Frankfurt,L,Werder Bremen,2,2,Eintracht Frankfurt,Werder Bremen,W,Eint Frankfurt
+1017,2,0,2023-02-25,Werder Bremen,Bochum,W,Werder Bremen,0,0,Bochum,Werder Bremen,L,Bochum
+1018,0,0,2023-03-04,Werder Bremen,Augsburg,L,Werder Bremen,2,2,Augsburg,Werder Bremen,W,Augsburg
+1019,0,2,2023-03-12,Werder Bremen,Leverkusen,L,Werder Bremen,2,2,Bayer Leverkusen,Werder Bremen,W,Leverkusen
+1020,1,2,2023-03-17,Werder Bremen,Gladbach,D,Werder Bremen,1,2,Monchengladbach,Werder Bremen,D,Gladbach
+1021,0,2,2023-04-02,Werder Bremen,Hoffenheim,L,Werder Bremen,2,2,Hoffenheim,Werder Bremen,W,Hoffenheim
+1022,1,0,2023-04-08,Werder Bremen,Mainz 05,D,Werder Bremen,1,2,Mainz 05,Werder Bremen,D,Mainz 05
+1023,0,0,2023-04-16,Werder Bremen,Freiburg,L,Werder Bremen,2,2,Freiburg,Werder Bremen,W,Freiburg
+1024,2,0,2023-04-22,Werder Bremen,Hertha BSC,W,Werder Bremen,0,0,Hertha BSC,Werder Bremen,L,Hertha BSC
+1025,0,2,2023-04-29,Werder Bremen,Schalke 04,L,Werder Bremen,2,2,Schalke 04,Werder Bremen,W,Schalke 04
+1026,0,0,2023-05-06,Werder Bremen,Bayern Munich,L,Werder Bremen,2,2,Bayern Munich,Werder Bremen,W,Bayern Munich
+1027,0,0,2023-05-14,Werder Bremen,RB Leipzig,L,Werder Bremen,2,2,RB Leipzig,Werder Bremen,W,RB Leipzig
+1028,1,0,2023-05-20,Werder Bremen,Köln,D,Werder Bremen,1,2,Koln,Werder Bremen,D,Koln
+1029,0,0,2023-05-27,Werder Bremen,Union Berlin,L,Werder Bremen,2,2,Union Berlin,Werder Bremen,W,Union Berlin
+1030,0,2,2023-08-18,Werder Bremen,Bayern Munich,L,Werder Bremen,2,2,Bayern Munich,Werder Bremen,W,Bayern Munich
+1031,0,0,2023-08-26,Werder Bremen,Freiburg,L,Werder Bremen,2,2,Freiburg,Werder Bremen,W,Freiburg
+1032,2,0,2023-09-02,Werder Bremen,Mainz 05,W,Werder Bremen,0,0,Mainz 05,Werder Bremen,L,Mainz 05
+1033,0,0,2023-09-17,Werder Bremen,Heidenheim,L,Werder Bremen,2,2,Heidenheim,Werder Bremen,W,Heidenheim
+1034,2,2,2023-09-23,Werder Bremen,Köln,W,Werder Bremen,0,0,Koln,Werder Bremen,L,Koln
+1035,0,0,2023-10-01,Werder Bremen,Darmstadt 98,L,Werder Bremen,2,0,Darmstadt 98,Werder Bremen,W,Darmstadt 98
+1036,0,2,2023-10-07,Werder Bremen,Hoffenheim,L,Werder Bremen,2,0,Hoffenheim,Werder Bremen,W,Hoffenheim
+1037,0,0,2023-10-20,Werder Bremen,Dortmund,L,Werder Bremen,2,2,Dortmund,Werder Bremen,W,Dortmund
+1038,2,0,2023-10-28,Werder Bremen,Union Berlin,W,Werder Bremen,0,2,Union Berlin,Werder Bremen,L,Union Berlin
+1039,1,0,2023-11-05,Werder Bremen,Wolfsburg,D,Werder Bremen,1,2,Wolfsburg,Werder Bremen,D,Wolfsburg
+1040,1,0,2023-11-12,Werder Bremen,Eint Frankfurt,D,Werder Bremen,1,2,Eintracht Frankfurt,Werder Bremen,D,Eint Frankfurt
+1041,0,2,2023-11-25,Werder Bremen,Leverkusen,L,Werder Bremen,2,2,Bayer Leverkusen,Werder Bremen,W,Leverkusen
+1042,0,0,2023-12-02,Werder Bremen,Stuttgart,L,Werder Bremen,2,2,Stuttgart,Werder Bremen,W,Stuttgart
+1043,2,2,2023-12-09,Werder Bremen,Augsburg,W,Werder Bremen,0,0,Augsburg,Werder Bremen,L,Augsburg
+1044,1,0,2023-12-15,Werder Bremen,Gladbach,D,Werder Bremen,1,0,Monchengladbach,Werder Bremen,D,Gladbach
+1045,1,2,2023-12-19,Werder Bremen,RB Leipzig,D,Werder Bremen,1,2,RB Leipzig,Werder Bremen,D,RB Leipzig
+1046,1,0,2024-01-14,Werder Bremen,Bochum,D,Werder Bremen,1,2,Bochum,Werder Bremen,D,Bochum
+1047,2,0,2024-01-21,Werder Bremen,Bayern Munich,W,Werder Bremen,0,2,Bayern Munich,Werder Bremen,L,Bayern Munich
+1048,2,2,2024-01-27,Werder Bremen,Freiburg,W,Werder Bremen,0,2,Freiburg,Werder Bremen,L,Freiburg
+1049,2,0,2024-02-03,Werder Bremen,Mainz 05,W,Werder Bremen,0,0,Mainz 05,Werder Bremen,L,Mainz 05
+1050,0,0,2024-02-10,Werder Bremen,Heidenheim,L,Werder Bremen,2,0,Heidenheim,Werder Bremen,W,Heidenheim
+1051,2,0,2024-02-16,Werder Bremen,Köln,W,Werder Bremen,0,0,Koln,Werder Bremen,L,Koln
+1052,1,2,2024-02-24,Werder Bremen,Darmstadt 98,D,Werder Bremen,1,2,Darmstadt 98,Werder Bremen,D,Darmstadt 98
+1053,0,0,2024-03-03,Werder Bremen,Hoffenheim,L,Werder Bremen,2,2,Hoffenheim,Werder Bremen,W,Hoffenheim
+1054,0,2,2024-03-09,Werder Bremen,Dortmund,L,Werder Bremen,2,2,Dortmund,Werder Bremen,W,Dortmund
+1055,0,2,2024-03-16,Werder Bremen,Union Berlin,L,Werder Bremen,2,2,Union Berlin,Werder Bremen,W,Union Berlin
+1056,0,2,2024-03-30,Werder Bremen,Wolfsburg,L,Werder Bremen,2,0,Wolfsburg,Werder Bremen,W,Wolfsburg
+1057,1,0,2024-04-05,Werder Bremen,Eint Frankfurt,D,Werder Bremen,1,2,Eintracht Frankfurt,Werder Bremen,D,Eint Frankfurt
+1058,0,0,2024-04-14,Werder Bremen,Leverkusen,L,Werder Bremen,2,2,Bayer Leverkusen,Werder Bremen,W,Leverkusen
+1059,2,0,2024-04-21,Werder Bremen,Stuttgart,W,Werder Bremen,0,2,Stuttgart,Werder Bremen,L,Stuttgart
+1060,2,0,2024-04-27,Werder Bremen,Augsburg,W,Werder Bremen,0,0,Augsburg,Werder Bremen,L,Augsburg
+1061,1,0,2024-05-04,Werder Bremen,Gladbach,D,Werder Bremen,1,0,Monchengladbach,Werder Bremen,D,Gladbach
+1062,1,2,2024-05-11,Werder Bremen,RB Leipzig,D,Werder Bremen,1,2,RB Leipzig,Werder Bremen,D,RB Leipzig
+1063,2,2,2024-05-18,Werder Bremen,Bochum,W,Werder Bremen,0,0,Bochum,Werder Bremen,L,Bochum
+1064,1,2,2024-08-24,Werder Bremen,Augsburg,D,Werder Bremen,1,2,Augsburg,Werder Bremen,D,Augsburg
+1065,1,2,2024-08-31,Werder Bremen,Dortmund,D,Werder Bremen,1,2,Dortmund,Werder Bremen,D,Dortmund
+1066,2,0,2024-09-15,Werder Bremen,Mainz 05,W,Werder Bremen,0,2,Mainz 05,Werder Bremen,L,Mainz 05
+1067,0,0,2024-09-21,Werder Bremen,Bayern Munich,L,Werder Bremen,2,2,Bayern Munich,Werder Bremen,W,Bayern Munich
+1068,1,2,2024-10-26,Werder Bremen,Leverkusen,D,Werder Bremen,1,2,Bayer Leverkusen,Werder Bremen,D,Leverkusen
+1069,0,0,2024-11-03,Werder Bremen,Gladbach,L,Werder Bremen,2,2,Monchengladbach,Werder Bremen,W,Gladbach
+1070,2,2,2024-11-09,Werder Bremen,Holstein Kiel,W,Werder Bremen,0,0,Holstein Kiel,Werder Bremen,L,Holstein Kiel
+1071,0,0,2024-11-23,Werder Bremen,Eint Frankfurt,L,Werder Bremen,2,2,Eintracht Frankfurt,Werder Bremen,W,Eint Frankfurt
+1072,1,2,2024-11-30,Werder Bremen,Stuttgart,D,Werder Bremen,1,2,Stuttgart,Werder Bremen,D,Stuttgart
+1073,2,0,2024-12-07,Werder Bremen,Bochum,W,Werder Bremen,0,0,Bochum,Werder Bremen,L,Bochum
+1074,2,0,2024-12-14,Werder Bremen,St. Pauli,W,Werder Bremen,0,2,St Pauli,Werder Bremen,L,St. Pauli
+1075,2,2,2024-12-21,Werder Bremen,Union Berlin,W,Werder Bremen,0,0,Union Berlin,Werder Bremen,L,Union Berlin
+1076,2,2,2023-01-21,Wolfsburg,Freiburg,W,Wolfsburg,0,0,Freiburg,Wolfsburg,L,Freiburg
+1077,2,2,2023-01-24,Wolfsburg,Hertha BSC,W,Wolfsburg,0,2,Hertha BSC,Wolfsburg,L,Hertha BSC
+1078,0,2,2023-01-28,Wolfsburg,Werder Bremen,L,Wolfsburg,2,0,Werder Bremen,Wolfsburg,W,Werder Bremen
+1079,0,2,2023-02-05,Wolfsburg,Bayern Munich,L,Wolfsburg,2,2,Bayern Munich,Wolfsburg,W,Bayern Munich
+1080,1,2,2023-02-10,Wolfsburg,Schalke 04,D,Wolfsburg,1,0,Schalke 04,Wolfsburg,D,Schalke 04
+1081,0,2,2023-02-18,Wolfsburg,RB Leipzig,L,Wolfsburg,2,0,RB Leipzig,Wolfsburg,W,RB Leipzig
+1082,2,0,2023-02-25,Wolfsburg,Köln,W,Wolfsburg,0,0,Koln,Wolfsburg,L,Koln
+1083,1,0,2023-03-05,Wolfsburg,Eint Frankfurt,D,Wolfsburg,1,0,Eintracht Frankfurt,Wolfsburg,D,Eint Frankfurt
+1084,1,0,2023-03-12,Wolfsburg,Union Berlin,D,Wolfsburg,1,0,Union Berlin,Wolfsburg,D,Union Berlin
+1085,2,2,2023-03-18,Wolfsburg,Stuttgart,W,Wolfsburg,0,2,Stuttgart,Wolfsburg,L,Stuttgart
+1086,1,2,2023-04-01,Wolfsburg,Augsburg,D,Wolfsburg,1,0,Augsburg,Wolfsburg,D,Augsburg
+1087,0,1,2023-04-09,Wolfsburg,Gladbach,L,Wolfsburg,2,2,Monchengladbach,Wolfsburg,W,Gladbach
+1088,1,2,2023-04-16,Wolfsburg,Leverkusen,D,Wolfsburg,1,2,Bayer Leverkusen,Wolfsburg,D,Leverkusen
+1089,2,0,2023-04-22,Wolfsburg,Bochum,W,Wolfsburg,0,2,Bochum,Wolfsburg,L,Bochum
+1090,2,2,2023-04-30,Wolfsburg,Mainz 05,W,Wolfsburg,0,2,Mainz 05,Wolfsburg,L,Mainz 05
+1091,0,0,2023-05-07,Wolfsburg,Dortmund,L,Wolfsburg,2,2,Dortmund,Wolfsburg,W,Dortmund
+1092,2,2,2023-05-13,Wolfsburg,Hoffenheim,W,Wolfsburg,0,0,Hoffenheim,Wolfsburg,L,Hoffenheim
+1093,0,0,2023-05-19,Wolfsburg,Freiburg,L,Wolfsburg,2,2,Freiburg,Wolfsburg,W,Freiburg
+1094,0,0,2023-05-27,Wolfsburg,Hertha BSC,L,Wolfsburg,2,0,Hertha BSC,Wolfsburg,W,Hertha BSC
+1095,2,0,2023-08-26,Wolfsburg,Köln,W,Wolfsburg,0,2,Koln,Wolfsburg,L,Koln
+1096,0,0,2023-09-02,Wolfsburg,Hoffenheim,L,Wolfsburg,2,2,Hoffenheim,Wolfsburg,W,Hoffenheim
+1097,2,2,2023-09-16,Wolfsburg,Union Berlin,W,Wolfsburg,0,2,Union Berlin,Wolfsburg,L,Union Berlin
+1098,0,0,2023-09-23,Wolfsburg,Dortmund,L,Wolfsburg,2,2,Dortmund,Wolfsburg,W,Dortmund
+1099,2,0,2023-09-30,Wolfsburg,Eint Frankfurt,W,Wolfsburg,0,0,Eintracht Frankfurt,Wolfsburg,L,Eint Frankfurt
+1100,0,0,2023-10-07,Wolfsburg,Stuttgart,L,Wolfsburg,2,2,Stuttgart,Wolfsburg,W,Stuttgart
+1101,0,2,2023-10-21,Wolfsburg,Leverkusen,L,Wolfsburg,2,2,Bayer Leverkusen,Wolfsburg,W,Leverkusen
+1102,0,2,2023-10-28,Wolfsburg,Augsburg,L,Wolfsburg,2,2,Augsburg,Wolfsburg,W,Augsburg
+1103,1,2,2023-11-05,Wolfsburg,Werder Bremen,D,Wolfsburg,1,0,Werder Bremen,Wolfsburg,D,Werder Bremen
+1104,0,0,2023-11-10,Wolfsburg,Gladbach,L,Wolfsburg,2,0,Monchengladbach,Wolfsburg,W,Gladbach
+1105,2,2,2023-11-25,Wolfsburg,RB Leipzig,W,Wolfsburg,0,2,RB Leipzig,Wolfsburg,L,RB Leipzig
+1106,0,0,2023-12-02,Wolfsburg,Bochum,L,Wolfsburg,2,2,Bochum,Wolfsburg,W,Bochum
+1107,0,2,2023-12-09,Wolfsburg,Freiburg,L,Wolfsburg,2,0,Freiburg,Wolfsburg,W,Freiburg
+1108,2,0,2023-12-16,Wolfsburg,Darmstadt 98,W,Wolfsburg,0,0,Darmstadt 98,Wolfsburg,L,Darmstadt 98
+1109,0,0,2023-12-20,Wolfsburg,Bayern Munich,L,Wolfsburg,2,2,Bayern Munich,Wolfsburg,W,Bayern Munich
+1110,1,0,2024-01-13,Wolfsburg,Mainz 05,D,Wolfsburg,1,2,Mainz 05,Wolfsburg,D,Mainz 05
+1111,1,0,2024-01-20,Wolfsburg,Heidenheim,D,Wolfsburg,1,0,Heidenheim,Wolfsburg,D,Heidenheim
+1112,1,0,2024-01-27,Wolfsburg,Köln,D,Wolfsburg,1,2,Koln,Wolfsburg,D,Koln
+1113,1,2,2024-02-04,Wolfsburg,Hoffenheim,D,Wolfsburg,1,2,Hoffenheim,Wolfsburg,D,Hoffenheim
+1114,0,0,2024-02-10,Wolfsburg,Union Berlin,L,Wolfsburg,2,2,Union Berlin,Wolfsburg,W,Union Berlin
+1115,1,2,2024-02-17,Wolfsburg,Dortmund,D,Wolfsburg,1,2,Dortmund,Wolfsburg,D,Dortmund
+1116,1,0,2024-02-25,Wolfsburg,Eint Frankfurt,D,Wolfsburg,1,2,Eintracht Frankfurt,Wolfsburg,D,Eint Frankfurt
+1117,0,2,2024-03-02,Wolfsburg,Stuttgart,L,Wolfsburg,2,0,Stuttgart,Wolfsburg,W,Stuttgart
+1118,0,0,2024-03-10,Wolfsburg,Leverkusen,L,Wolfsburg,2,2,Bayer Leverkusen,Wolfsburg,W,Leverkusen
+1119,0,2,2024-03-16,Wolfsburg,Augsburg,L,Wolfsburg,2,2,Augsburg,Wolfsburg,W,Augsburg
+1120,2,0,2024-03-30,Wolfsburg,Werder Bremen,W,Wolfsburg,0,2,Werder Bremen,Wolfsburg,L,Werder Bremen
+1121,0,2,2024-04-07,Wolfsburg,Gladbach,L,Wolfsburg,2,0,Monchengladbach,Wolfsburg,W,Gladbach
+1122,0,0,2024-04-13,Wolfsburg,RB Leipzig,L,Wolfsburg,2,2,RB Leipzig,Wolfsburg,W,RB Leipzig
+1123,2,2,2024-04-20,Wolfsburg,Bochum,W,Wolfsburg,0,2,Bochum,Wolfsburg,L,Bochum
+1124,2,0,2024-04-27,Wolfsburg,Freiburg,W,Wolfsburg,0,2,Freiburg,Wolfsburg,L,Freiburg
+1125,2,0,2024-05-04,Wolfsburg,Darmstadt 98,W,Wolfsburg,0,2,Darmstadt 98,Wolfsburg,L,Darmstadt 98
+1126,0,0,2024-05-12,Wolfsburg,Bayern Munich,L,Wolfsburg,2,2,Bayern Munich,Wolfsburg,W,Bayern Munich
+1127,0,2,2024-05-18,Wolfsburg,Mainz 05,L,Wolfsburg,2,2,Mainz 05,Wolfsburg,W,Mainz 05
+1128,0,0,2024-08-25,Wolfsburg,Bayern Munich,L,Wolfsburg,2,0,Bayern Munich,Wolfsburg,W,Bayern Munich
+1129,0,0,2024-09-14,Wolfsburg,Eint Frankfurt,L,Wolfsburg,2,1,Eintracht Frankfurt,Wolfsburg,W,Eint Frankfurt
+1130,0,2,2024-09-22,Wolfsburg,Leverkusen,L,Wolfsburg,2,2,Bayer Leverkusen,Wolfsburg,W,Leverkusen
+1131,1,2,2024-09-28,Wolfsburg,Stuttgart,D,Wolfsburg,1,2,Stuttgart,Wolfsburg,D,Stuttgart
+1132,2,0,2024-10-05,Wolfsburg,Bochum,W,Wolfsburg,0,0,Bochum,Wolfsburg,L,Bochum
+1133,1,0,2024-10-26,Wolfsburg,St. Pauli,D,Wolfsburg,1,2,St Pauli,Wolfsburg,D,St. Pauli
+1134,1,2,2024-11-02,Wolfsburg,Augsburg,D,Wolfsburg,1,0,Augsburg,Wolfsburg,D,Augsburg
+1135,2,0,2024-11-10,Wolfsburg,Heidenheim,W,Wolfsburg,0,2,Heidenheim,Wolfsburg,L,Heidenheim
+1136,2,2,2024-11-23,Wolfsburg,Union Berlin,W,Wolfsburg,0,0,Union Berlin,Wolfsburg,L,Union Berlin
+1137,2,2,2024-11-30,Wolfsburg,RB Leipzig,W,Wolfsburg,0,2,RB Leipzig,Wolfsburg,L,RB Leipzig
+1138,2,2,2024-12-08,Wolfsburg,Mainz 05,W,Wolfsburg,0,2,Mainz 05,Wolfsburg,L,Mainz 05
+1139,0,2,2024-12-13,Wolfsburg,Freiburg,L,Wolfsburg,2,2,Freiburg,Wolfsburg,W,Freiburg
+1140,0,2,2024-12-22,Wolfsburg,Dortmund,L,Wolfsburg,2,0,Dortmund,Wolfsburg,W,Dortmund
